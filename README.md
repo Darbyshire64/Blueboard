@@ -17,6 +17,7 @@ Blueboard is Themed and designed to my specific Liking. It features a Blue, Blac
 <img width="1316" height="371" alt="keyboard-layout(2)" src="https://github.com/user-attachments/assets/a22f08b0-703b-4a57-a886-82379b085e05" />
 <img width="1316" height="371" alt="blueboard" src="https://github.com/user-attachments/assets/e0e128ad-5e09-41db-af10-e0d1f7e508de" />
 <img width="1490" height="446" alt="image" src="https://github.com/user-attachments/assets/28ccb35d-7d4a-4f96-b6b8-b05bbeba3309" />
+<img width="476" height="654" alt="image" src="https://github.com/user-attachments/assets/3055f1b7-4c80-42c6-b9a6-1a8674a05556" />
 
 
 ## To Do
