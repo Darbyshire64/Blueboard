@@ -3,7 +3,7 @@
 	(generator "eeschema")
 	(generator_version "8.0")
 	(uuid "28ce5374-ebb9-4b9f-971f-5c3e61458e61")
-	(paper "A4")
+	(paper "A3")
 	(lib_symbols
 		(symbol "Device:D"
 			(pin_numbers hide)
@@ -351,6 +351,18 @@
 		(uuid "043847e7-dcec-4057-8754-89454bb1dedd")
 	)
 	(junction
+		(at 233.68 50.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0451b71b-c3c1-4c31-b6fa-86995ba73587")
+	)
+	(junction
+		(at 264.16 106.68)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "09068366-5bb4-4d61-8dc4-ca8fed2549f8")
+	)
+	(junction
 		(at 35.56 85.09)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -361,6 +373,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0b45646b-9ac6-4daa-bd4d-54554c2b45e8")
+	)
+	(junction
+		(at 200.66 128.27)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0e5148ff-5e40-4be0-a485-23552d16a8e1")
 	)
 	(junction
 		(at 99.06 85.09)
@@ -393,6 +411,18 @@
 		(uuid "10faf884-796c-4865-867b-56ef2017f82c")
 	)
 	(junction
+		(at 246.38 30.48)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "12016d78-4010-4e15-8800-0ae543612426")
+	)
+	(junction
+		(at 276.86 106.68)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "12124560-8d86-4996-b140-3b797727fd08")
+	)
+	(junction
 		(at 60.96 43.18)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -411,6 +441,12 @@
 		(uuid "17222f21-c6ed-4807-82ae-24c8394eba9e")
 	)
 	(junction
+		(at 238.76 85.09)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1736cb98-19d9-4ad5-ade0-26c654f12f2e")
+	)
+	(junction
 		(at 99.06 106.68)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -423,10 +459,22 @@
 		(uuid "19426d40-3903-4cec-97cb-0ca88fed9497")
 	)
 	(junction
+		(at 259.08 114.3)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "197a04fc-95d9-4623-9bf1-86785f1be9a2")
+	)
+	(junction
 		(at 68.58 50.8)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "19c00138-e062-43fd-b513-ae2b2fb5aea7")
+	)
+	(junction
+		(at 175.26 85.09)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1d1ed19c-591c-49d8-a48b-2e51e0344413")
 	)
 	(junction
 		(at 30.48 92.71)
@@ -435,10 +483,22 @@
 		(uuid "1da84562-0a82-4912-92f5-9f3ce2a9d9e7")
 	)
 	(junction
+		(at 200.66 149.86)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1dfe9282-c92e-4db1-a9e2-e759e2c0224f")
+	)
+	(junction
 		(at 111.76 63.5)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1e01a69f-5216-4b0c-832d-9518a5d02b63")
+	)
+	(junction
+		(at 290.83 149.86)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1f113935-609b-4a6d-b045-0b70f0d3e590")
 	)
 	(junction
 		(at 30.48 71.12)
@@ -447,10 +507,28 @@
 		(uuid "1f3d4d76-4eee-4d2e-8aa0-457f724bed15")
 	)
 	(junction
+		(at 213.36 43.18)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2118e35f-0371-40cb-92ea-097c18185266")
+	)
+	(junction
 		(at 137.16 85.09)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "24443d7d-ac59-4256-9e3b-17801d4e4f8b")
+	)
+	(junction
+		(at 233.68 71.12)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "24ebd46d-8879-43c2-bba3-ef3696fe452d")
+	)
+	(junction
+		(at 285.75 92.71)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "260849ea-b9fc-41f5-b78f-69cccef3a490")
 	)
 	(junction
 		(at 17.78 49.53)
@@ -465,10 +543,28 @@
 		(uuid "26df63cd-18c0-493e-b9b0-0f6e819935e8")
 	)
 	(junction
+		(at 238.76 128.27)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2815e03e-0b71-4354-8882-b0c992d8f309")
+	)
+	(junction
 		(at 93.98 30.48)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "286488fb-c67b-4aca-911b-f00b075067f9")
+	)
+	(junction
+		(at 233.68 30.48)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "28957384-c5ab-44a7-a574-2cda030384b5")
+	)
+	(junction
+		(at 170.18 50.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "29ac6b9e-529c-442c-bf66-ae73150adfc5")
 	)
 	(junction
 		(at 157.48 71.12)
@@ -495,10 +591,28 @@
 		(uuid "2ea51948-0f1a-4d1b-b90c-a38d7da5a664")
 	)
 	(junction
+		(at 200.66 43.18)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2fcd7e5a-719b-4729-8ad8-7ed8a6120dcb")
+	)
+	(junction
 		(at 73.66 43.18)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3022ed00-c5d6-4827-9e63-72343977c163")
+	)
+	(junction
+		(at 175.26 63.5)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "31d462de-30a5-4bcd-b3c0-58ed1107c692")
+	)
+	(junction
+		(at 175.26 43.18)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "32637b12-b184-49e5-85a0-0e6657da5fb0")
 	)
 	(junction
 		(at 99.06 43.18)
@@ -507,16 +621,34 @@
 		(uuid "3269ef21-cad3-414e-9d39-b93d9b9afe9a")
 	)
 	(junction
+		(at 187.96 85.09)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "328b7c6a-72de-442f-bbb9-063f98d28c68")
+	)
+	(junction
 		(at 43.18 92.71)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3356797e-62c2-4b6a-914b-475d77bcb64d")
 	)
 	(junction
+		(at 276.86 63.5)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "338c6c25-c20f-420f-8f12-d4cfabcab740")
+	)
+	(junction
 		(at 55.88 50.8)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "342941c7-5e58-42c5-978f-e96ce73c873b")
+	)
+	(junction
+		(at 162.56 85.09)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "35907e93-8fa4-459f-9f8f-253241c8d322")
 	)
 	(junction
 		(at 17.78 114.3)
@@ -549,6 +681,12 @@
 		(uuid "3af4cf72-0ae0-40e2-b878-f52f63610af8")
 	)
 	(junction
+		(at 162.56 63.5)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3b076db1-cca0-4d45-b3bf-450e34ef9d34")
+	)
+	(junction
 		(at 17.78 92.71)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -567,10 +705,34 @@
 		(uuid "401385a7-1a34-4841-87f8-bcf00e1c1ba5")
 	)
 	(junction
+		(at 187.96 43.18)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "409ebea3-5062-4ea1-8a2c-90b8892073b3")
+	)
+	(junction
+		(at 170.18 30.48)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "41406d12-4e54-49c0-9928-3ff197a3b3eb")
+	)
+	(junction
 		(at 137.16 128.27)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "41834935-f8d2-45e9-a3f8-f5d796574605")
+	)
+	(junction
+		(at 290.83 106.68)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4312fb86-5f5d-4ae4-bfcd-2dde1c15bb40")
+	)
+	(junction
+		(at 162.56 106.68)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "43afe1e4-6f52-4a64-8a4d-bcc2bea8816c")
 	)
 	(junction
 		(at 124.46 106.68)
@@ -583,6 +745,18 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "464c9b7d-8b98-4243-8df7-9b147ead9d7c")
+	)
+	(junction
+		(at 246.38 50.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "487eec86-a49a-4b27-9418-61dc43f22b17")
+	)
+	(junction
+		(at 285.75 114.3)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "48fecb98-3ad6-43a5-ab63-31e2260b233d")
 	)
 	(junction
 		(at 60.96 128.27)
@@ -615,16 +789,22 @@
 		(uuid "4cc1904c-85f4-430f-b96d-328e996de23e")
 	)
 	(junction
-		(at 157.48 114.3)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "4d7d4fd1-786d-4724-a579-9c9b282e47c5")
-	)
-	(junction
 		(at 106.68 92.71)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5215030c-2125-4f5d-b956-ea6fc6c3525a")
+	)
+	(junction
+		(at 187.96 63.5)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "526e6c96-dad9-49fd-b3d4-833da59a86ff")
+	)
+	(junction
+		(at 195.58 92.71)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "52fa0154-966f-42aa-867b-18cf05389301")
 	)
 	(junction
 		(at 157.48 50.8)
@@ -651,10 +831,40 @@
 		(uuid "5674b0db-ce28-4a51-8dcb-8ae9c9334bc1")
 	)
 	(junction
+		(at 306.07 85.09)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "569a5648-18d5-409c-a48e-2639b1b62aac")
+	)
+	(junction
+		(at 306.07 63.5)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "56b8fab1-1865-48b5-a0bd-ce831d2074dc")
+	)
+	(junction
+		(at 259.08 92.71)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "56c6e209-b802-49bb-8750-204f9cab5ff0")
+	)
+	(junction
+		(at 226.06 85.09)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "597bdc5b-4da9-4a90-8d8d-1bf4471c7554")
+	)
+	(junction
 		(at 132.08 114.3)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5bda6c90-2a01-4520-a2f8-3fc050af1e9f")
+	)
+	(junction
+		(at 233.68 114.3)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5fba2418-a100-4021-85ac-504b78ef15a8")
 	)
 	(junction
 		(at 43.18 71.12)
@@ -669,10 +879,34 @@
 		(uuid "61338ab5-6d5b-42ef-b6a3-23d2c0b82cc1")
 	)
 	(junction
+		(at 175.26 149.86)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "61c8a048-34f8-4764-8ce1-28389934c5d8")
+	)
+	(junction
+		(at 300.99 50.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "640609bd-5d03-4944-b5cf-5c922bc25117")
+	)
+	(junction
 		(at 93.98 114.3)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "655b63b0-e358-472d-8aa5-53b495d3d514")
+	)
+	(junction
+		(at 175.26 106.68)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "65f72dd1-4b83-41c0-8b12-5c9cd1955ff4")
+	)
+	(junction
+		(at 290.83 85.09)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "67a501db-2940-46d1-81e0-575f25b6d9e4")
 	)
 	(junction
 		(at 137.16 149.86)
@@ -705,10 +939,22 @@
 		(uuid "6fd2d863-b7e9-4a3f-a01e-4c2f4dd8220f")
 	)
 	(junction
+		(at 238.76 149.86)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "70579249-074c-4e02-95e1-e0d8a3810964")
+	)
+	(junction
 		(at 124.46 43.18)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "78ed5f82-6d8b-4de6-80dd-69bfa9e6098a")
+	)
+	(junction
+		(at 195.58 114.3)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7c516e11-93d9-4bf5-98c6-66364bab490d")
 	)
 	(junction
 		(at 111.76 85.09)
@@ -723,22 +969,34 @@
 		(uuid "8017f538-bd5a-449f-9f52-7adb5bfa1c9a")
 	)
 	(junction
+		(at 271.78 71.12)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "84528603-1fe5-493c-84c3-7dba81ac53d6")
+	)
+	(junction
+		(at 200.66 85.09)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8511e457-25b7-492b-8b59-58a4446c502c")
+	)
+	(junction
 		(at 144.78 50.8)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8670ed2e-8f5c-4ff9-b372-ead06b02e9d2")
 	)
 	(junction
+		(at 290.83 128.27)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "86a77a4b-a8b7-47a2-aa9f-3b8588df2ce7")
+	)
+	(junction
 		(at 81.28 92.71)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "88aae910-42b4-4362-a730-94729620b7ed")
-	)
-	(junction
-		(at 157.48 92.71)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "89b3157e-369c-4302-a242-6fea4e904c51")
 	)
 	(junction
 		(at 132.08 50.8)
@@ -759,6 +1017,18 @@
 		(uuid "8d9998ec-536c-4b53-8a51-e7a871855a3a")
 	)
 	(junction
+		(at 170.18 114.3)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "904935d1-cc8b-4187-9898-bc621fd52630")
+	)
+	(junction
+		(at 264.16 63.5)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "92be3859-3148-4ff4-b976-b7c4e422e5ce")
+	)
+	(junction
 		(at 144.78 92.71)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -771,10 +1041,34 @@
 		(uuid "96447b3e-7de0-4ac0-b1bf-fcdb252ee868")
 	)
 	(junction
+		(at 276.86 128.27)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "96ef96ad-8afd-4062-b6f5-8d6bee62dae0")
+	)
+	(junction
+		(at 226.06 43.18)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9d5b143c-73eb-4e70-9db9-bd4078259ea5")
+	)
+	(junction
 		(at 30.48 50.8)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9e80f876-76ba-4775-84a2-d2e445041bff")
+	)
+	(junction
+		(at 251.46 43.18)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a227242b-f206-4e97-8d45-2a3c70a10cbe")
+	)
+	(junction
+		(at 264.16 128.27)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a312feac-896d-4a8a-9cd3-13cf58f8a5ea")
 	)
 	(junction
 		(at 132.08 92.71)
@@ -783,10 +1077,34 @@
 		(uuid "a3bee8cd-3699-4a61-95e3-c80191e84a6e")
 	)
 	(junction
+		(at 251.46 149.86)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a4ff9eb4-e908-4d11-95dc-5698c52499ce")
+	)
+	(junction
+		(at 220.98 50.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a510678f-62a7-40b6-ba00-e98e0d8d9312")
+	)
+	(junction
 		(at 60.96 106.68)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a52e5e4e-15c0-4d17-b67b-6b44fb730099")
+	)
+	(junction
+		(at 195.58 71.12)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a6f24b72-bc4d-430d-b497-6a705fddd7c7")
+	)
+	(junction
+		(at 285.75 50.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a8f9d7ed-f32b-41fb-9fc6-956481d4942c")
 	)
 	(junction
 		(at 106.68 71.12)
@@ -795,10 +1113,22 @@
 		(uuid "aafee2df-af30-43f5-89d2-c383459a8b0b")
 	)
 	(junction
+		(at 259.08 50.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ac2a34cd-d358-4cec-8d89-bb3bbe709b6d")
+	)
+	(junction
 		(at 132.08 71.12)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ac676b2c-cbd4-4c17-ab05-1d31f874c68a")
+	)
+	(junction
+		(at 238.76 43.18)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ad7fcef9-221c-4251-9055-81648fe2a48f")
 	)
 	(junction
 		(at 60.96 85.09)
@@ -811,6 +1141,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b062fe37-1d0a-4f3e-91e1-01a40114c822")
+	)
+	(junction
+		(at 226.06 149.86)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b1349938-0077-4853-a4e4-20c9372a4163")
 	)
 	(junction
 		(at 68.58 30.48)
@@ -831,16 +1167,40 @@
 		(uuid "b7db0168-3dde-41a4-b2d1-573781146aba")
 	)
 	(junction
+		(at 175.26 128.27)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b8b7c99f-d28d-4127-b391-0e14dce12fa1")
+	)
+	(junction
 		(at 99.06 128.27)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b936b0f0-1623-4cb1-a147-fffc62061540")
 	)
 	(junction
+		(at 195.58 50.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b95749e0-5dd8-42b8-921d-116b261a2ceb")
+	)
+	(junction
+		(at 300.99 71.12)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "bb86033c-190e-4988-8160-f72e5da4a66f")
+	)
+	(junction
 		(at 60.96 63.5)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "bbb42d8a-f3c1-4419-b7e6-25db9fede083")
+	)
+	(junction
+		(at 259.08 71.12)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "bbbb77d0-4037-4e96-9757-55d30e70a808")
 	)
 	(junction
 		(at 124.46 128.27)
@@ -861,10 +1221,28 @@
 		(uuid "c1abae74-f514-4639-b780-3de18bf19c01")
 	)
 	(junction
+		(at 276.86 85.09)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c2c1c9ee-6dc2-487f-9ca2-b2c720c66e28")
+	)
+	(junction
+		(at 264.16 85.09)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c4ca5220-fd61-47a7-91e5-8327c5c33b89")
+	)
+	(junction
 		(at 93.98 92.71)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c60597cd-977c-45b4-956d-6bf7bf423d28")
+	)
+	(junction
+		(at 220.98 71.12)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c98851c6-77dc-420c-afd5-392f621d19bd")
 	)
 	(junction
 		(at 86.36 43.18)
@@ -879,6 +1257,12 @@
 		(uuid "cbba4a6e-08a7-473d-8a68-7a79a20fdd51")
 	)
 	(junction
+		(at 264.16 149.86)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "cd1a8499-4d2d-43e0-b82a-1e2142bde2a7")
+	)
+	(junction
 		(at 149.86 128.27)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -889,6 +1273,36 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "cffbfa70-2567-4764-bcb6-0f6ab11390ee")
+	)
+	(junction
+		(at 271.78 92.71)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d07f84ce-ef32-443e-8f8c-2705fdb7434e")
+	)
+	(junction
+		(at 251.46 85.09)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d4238697-b8ea-48f0-82f1-9c3d4db937de")
+	)
+	(junction
+		(at 195.58 30.48)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d4feac83-e860-4a90-9b6b-baca5b8b847c")
+	)
+	(junction
+		(at 238.76 63.5)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d85a793b-29d2-4775-ad6f-dd227c615f2a")
+	)
+	(junction
+		(at 285.75 71.12)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d950bfc3-6cb1-4a43-ac36-bae1f98280e7")
 	)
 	(junction
 		(at 55.88 114.3)
@@ -907,6 +1321,18 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "dc1ffa52-010c-4b1e-9b59-145a63b6f250")
+	)
+	(junction
+		(at 306.07 128.27)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "dcb5a506-e2dd-49b3-9449-726ddf62c1f6")
+	)
+	(junction
+		(at 200.66 106.68)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "dd018c5e-7db6-46bb-b28f-22f49bd67a31")
 	)
 	(junction
 		(at 119.38 30.48)
@@ -933,10 +1359,34 @@
 		(uuid "e6e31b59-012e-48a6-a6aa-a13864d73655")
 	)
 	(junction
+		(at 290.83 63.5)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e7513de7-4c42-4493-b540-f4b01c476be2")
+	)
+	(junction
 		(at 137.16 106.68)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e9cfd203-f564-4f06-a4cc-07c5c9616146")
+	)
+	(junction
+		(at 251.46 63.5)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ee490038-45b5-4766-80bb-d5f8b31c9d46")
+	)
+	(junction
+		(at 271.78 50.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ee9df35c-f3bd-41a6-9385-e7545994b602")
+	)
+	(junction
+		(at 182.88 50.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f351542f-d47d-4196-96f2-c1136232fa68")
 	)
 	(junction
 		(at 60.96 149.86)
@@ -945,10 +1395,46 @@
 		(uuid "f372b76b-a566-4bc1-a0d5-c6522dbc79b7")
 	)
 	(junction
+		(at 226.06 63.5)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f53eea63-7909-432d-9f86-d1ec386c7d73")
+	)
+	(junction
+		(at 162.56 43.18)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f7f65a87-f149-4b7d-addc-7085bf0b0de0")
+	)
+	(junction
+		(at 200.66 63.5)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f810aba1-8215-4170-ac3e-4de0baa475a7")
+	)
+	(junction
+		(at 170.18 71.12)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f87b93ee-6abf-41e7-8ad1-1d45d504b9c8")
+	)
+	(junction
+		(at 220.98 30.48)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f91e1e76-d1be-4c55-94b3-56b9cd99dd6e")
+	)
+	(junction
 		(at 144.78 71.12)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f9f2d10d-ab8b-48f5-b2e8-cf6ec45703b3")
+	)
+	(junction
+		(at 246.38 71.12)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "fa476d85-07c2-4136-8ceb-2cd2a402ad2b")
 	)
 	(junction
 		(at 86.36 128.27)
@@ -974,6 +1460,18 @@
 		(color 0 0 0 0)
 		(uuid "feea0888-a6b8-4f78-b9e2-3b6e939dd669")
 	)
+	(junction
+		(at 170.18 92.71)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ff9cd16b-7c7f-41e9-a27e-91992d00045c")
+	)
+	(junction
+		(at 182.88 30.48)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "fffbc8c1-e595-41af-8c8b-45b41510de10")
+	)
 	(wire
 		(pts
 			(xy 124.46 43.18) (xy 137.16 43.18)
@@ -993,6 +1491,16 @@
 			(type default)
 		)
 		(uuid "0106ea3e-7650-4204-98d5-5bc62a0e905c")
+	)
+	(wire
+		(pts
+			(xy 285.75 92.71) (xy 285.75 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "010fac52-c3f9-47ac-ae08-029a62ce7026")
 	)
 	(wire
 		(pts
@@ -1046,6 +1554,16 @@
 	)
 	(wire
 		(pts
+			(xy 306.07 83.82) (xy 306.07 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "05995a96-b394-46a9-b947-01d339fdaf5f")
+	)
+	(wire
+		(pts
 			(xy 81.28 92.71) (xy 81.28 114.3)
 		)
 		(stroke
@@ -1063,6 +1581,26 @@
 			(type default)
 		)
 		(uuid "07e0ec03-2ff2-480f-bff0-4aaf70360f30")
+	)
+	(wire
+		(pts
+			(xy 285.75 71.12) (xy 285.75 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "081fd788-95fc-4200-a7b5-9b0bd644af6f")
+	)
+	(wire
+		(pts
+			(xy 162.56 63.5) (xy 175.26 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "08232217-47a1-4277-b87d-042054ddd547")
 	)
 	(wire
 		(pts
@@ -1086,6 +1624,16 @@
 	)
 	(wire
 		(pts
+			(xy 290.83 63.5) (xy 306.07 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "09f0dc9a-637a-41de-8b89-2c600ec71ce0")
+	)
+	(wire
+		(pts
 			(xy 157.48 30.48) (xy 157.48 50.8)
 		)
 		(stroke
@@ -1093,6 +1641,16 @@
 			(type default)
 		)
 		(uuid "0a1c392e-4626-4a72-95eb-4213cd9a1050")
+	)
+	(wire
+		(pts
+			(xy 195.58 30.48) (xy 195.58 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0b713d1d-f38f-4429-a35d-84e920ab3bdf")
 	)
 	(wire
 		(pts
@@ -1116,6 +1674,16 @@
 	)
 	(wire
 		(pts
+			(xy 246.38 50.8) (xy 246.38 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0d9d29c7-988f-457b-b62e-13025b7b15c5")
+	)
+	(wire
+		(pts
 			(xy 149.86 106.68) (xy 149.86 105.41)
 		)
 		(stroke
@@ -1136,6 +1704,16 @@
 	)
 	(wire
 		(pts
+			(xy 264.16 105.41) (xy 264.16 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "102d6146-6d9d-490b-9d73-5b24ec7630bb")
+	)
+	(wire
+		(pts
 			(xy 119.38 92.71) (xy 119.38 114.3)
 		)
 		(stroke
@@ -1146,7 +1724,17 @@
 	)
 	(wire
 		(pts
-			(xy 149.86 128.27) (xy 162.56 128.27)
+			(xy 264.16 149.86) (xy 264.16 148.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "11c98ebb-0496-4a0e-b87f-f7e4fde9375e")
+	)
+	(wire
+		(pts
+			(xy 149.86 128.27) (xy 175.26 128.27)
 		)
 		(stroke
 			(width 0)
@@ -1166,6 +1754,16 @@
 	)
 	(wire
 		(pts
+			(xy 187.96 85.09) (xy 187.96 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "14a8f169-5e0e-4cc0-a2c6-766896e4c59f")
+	)
+	(wire
+		(pts
 			(xy 17.78 114.3) (xy 17.78 135.89)
 		)
 		(stroke
@@ -1176,6 +1774,16 @@
 	)
 	(wire
 		(pts
+			(xy 200.66 63.5) (xy 226.06 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "15d36d90-5ea2-4d6a-8620-7438d6960e59")
+	)
+	(wire
+		(pts
 			(xy 73.66 63.5) (xy 86.36 63.5)
 		)
 		(stroke
@@ -1183,6 +1791,16 @@
 			(type default)
 		)
 		(uuid "16974ff1-76fd-4e77-b5a3-977742b9721d")
+	)
+	(wire
+		(pts
+			(xy 195.58 92.71) (xy 195.58 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "18eeecfc-c929-4f99-9d0b-a4c487296177")
 	)
 	(wire
 		(pts
@@ -1213,6 +1831,16 @@
 			(type default)
 		)
 		(uuid "193c87e7-f6c3-481a-97b3-7018078d07e0")
+	)
+	(wire
+		(pts
+			(xy 238.76 127) (xy 238.76 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "19920acd-f0f2-4dc3-80e3-abbb73d9a9dc")
 	)
 	(wire
 		(pts
@@ -1276,6 +1904,26 @@
 	)
 	(wire
 		(pts
+			(xy 200.66 149.86) (xy 226.06 149.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "23225578-a3c7-49ef-a95c-85c6b6c92cec")
+	)
+	(wire
+		(pts
+			(xy 175.26 85.09) (xy 175.26 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "23df7600-e56f-4f9d-8cf5-4aa2fee573b6")
+	)
+	(wire
+		(pts
 			(xy 86.36 85.09) (xy 99.06 85.09)
 		)
 		(stroke
@@ -1316,6 +1964,16 @@
 	)
 	(wire
 		(pts
+			(xy 264.16 106.68) (xy 276.86 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "295f47d0-c1e4-4b24-abe8-2dd70c24b30d")
+	)
+	(wire
+		(pts
 			(xy 137.16 128.27) (xy 149.86 128.27)
 		)
 		(stroke
@@ -1323,6 +1981,16 @@
 			(type default)
 		)
 		(uuid "29cc1138-c1bd-469c-8e99-42bfe2299f69")
+	)
+	(wire
+		(pts
+			(xy 300.99 21.59) (xy 300.99 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "29cf41cf-6e9f-4060-9e7f-ebba047bd2ff")
 	)
 	(wire
 		(pts
@@ -1356,6 +2024,16 @@
 	)
 	(wire
 		(pts
+			(xy 162.56 43.18) (xy 175.26 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2bbd1349-0b6a-4451-ad0c-addc852fa483")
+	)
+	(wire
+		(pts
 			(xy 22.86 76.2) (xy 22.86 77.47)
 		)
 		(stroke
@@ -1363,6 +2041,16 @@
 			(type default)
 		)
 		(uuid "2f5d393a-4c8d-4120-ab0d-72e6b9437c5b")
+	)
+	(wire
+		(pts
+			(xy 238.76 149.86) (xy 251.46 149.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "30a92e66-be5f-4ca5-941c-b1518787fc5e")
 	)
 	(wire
 		(pts
@@ -1376,13 +2064,33 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 148.59) (xy 162.56 149.86)
+			(xy 238.76 63.5) (xy 251.46 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3185a9bc-1bf6-4d21-8d1b-3fa4118065f5")
+	)
+	(wire
+		(pts
+			(xy 175.26 148.59) (xy 175.26 149.86)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "33b52757-cf30-400b-a74d-9548603bd162")
+	)
+	(wire
+		(pts
+			(xy 271.78 92.71) (xy 271.78 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "33edd47f-a8fb-4b05-a231-8042e3dc1827")
 	)
 	(wire
 		(pts
@@ -1403,6 +2111,16 @@
 			(type default)
 		)
 		(uuid "35c60371-5a71-4750-ae5d-6645eeec3764")
+	)
+	(wire
+		(pts
+			(xy 226.06 149.86) (xy 226.06 148.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3798ed5a-50ab-451e-86e9-8f6cf1f264b3")
 	)
 	(wire
 		(pts
@@ -1436,6 +2154,16 @@
 	)
 	(wire
 		(pts
+			(xy 290.83 128.27) (xy 306.07 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3bfe9aa4-2119-4c6b-a19d-ccbebe5ac704")
+	)
+	(wire
+		(pts
 			(xy 111.76 63.5) (xy 124.46 63.5)
 		)
 		(stroke
@@ -1466,6 +2194,36 @@
 	)
 	(wire
 		(pts
+			(xy 276.86 127) (xy 276.86 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3fbdcc42-a9a1-45a0-9716-e34d2542dfaa")
+	)
+	(wire
+		(pts
+			(xy 175.26 106.68) (xy 200.66 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "404bfd55-8edb-42d7-87d8-f414aab34981")
+	)
+	(wire
+		(pts
+			(xy 259.08 21.59) (xy 259.08 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "40942ebf-bf49-4681-8f4c-f250af5177b2")
+	)
+	(wire
+		(pts
 			(xy 137.16 85.09) (xy 137.16 83.82)
 		)
 		(stroke
@@ -1476,6 +2234,36 @@
 	)
 	(wire
 		(pts
+			(xy 175.26 43.18) (xy 187.96 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "40cd9853-8203-433c-828b-82315a80e596")
+	)
+	(wire
+		(pts
+			(xy 182.88 50.8) (xy 182.88 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "40da0140-45b3-452f-9d68-1a186cc7a3ab")
+	)
+	(wire
+		(pts
+			(xy 246.38 30.48) (xy 246.38 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "40eb3533-c1c6-40d7-a022-792b6b2741b0")
+	)
+	(wire
+		(pts
 			(xy 144.78 71.12) (xy 144.78 92.71)
 		)
 		(stroke
@@ -1483,6 +2271,26 @@
 			(type default)
 		)
 		(uuid "4205fc02-6d8c-4bf5-9994-61c37a453066")
+	)
+	(wire
+		(pts
+			(xy 300.99 50.8) (xy 300.99 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "42cbc565-c3f9-4b87-885c-56b2762f8b1d")
+	)
+	(wire
+		(pts
+			(xy 285.75 21.59) (xy 285.75 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "42e0e45e-a79d-4374-972e-1504628d298a")
 	)
 	(wire
 		(pts
@@ -1506,13 +2314,23 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 149.86) (xy 149.86 149.86)
+			(xy 149.86 149.86) (xy 175.26 149.86)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "46fd748e-028a-4d50-9df7-2012fdf281d1")
+	)
+	(wire
+		(pts
+			(xy 200.66 128.27) (xy 200.66 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "47048a1a-0497-4e1c-a95f-39aaf7ff172d")
 	)
 	(wire
 		(pts
@@ -1523,6 +2341,16 @@
 			(type default)
 		)
 		(uuid "47314d62-696c-4020-a29f-c1e8418a4398")
+	)
+	(wire
+		(pts
+			(xy 187.96 43.18) (xy 200.66 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "498adddc-f45f-4b01-b48b-4071f765e464")
 	)
 	(wire
 		(pts
@@ -1556,6 +2384,16 @@
 	)
 	(wire
 		(pts
+			(xy 251.46 85.09) (xy 264.16 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4e33ee4e-3dee-48ff-8b97-0d9ffb0c1d37")
+	)
+	(wire
+		(pts
 			(xy 132.08 71.12) (xy 132.08 92.71)
 		)
 		(stroke
@@ -1563,6 +2401,26 @@
 			(type default)
 		)
 		(uuid "4e5cc55d-3de1-4249-96f9-50d069e37961")
+	)
+	(wire
+		(pts
+			(xy 175.26 128.27) (xy 200.66 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4e5e83d0-817a-4c9d-b89e-c33b4e4c1a51")
+	)
+	(wire
+		(pts
+			(xy 200.66 83.82) (xy 200.66 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "50475276-8243-4759-b04e-3ccb6e020343")
 	)
 	(wire
 		(pts
@@ -1596,6 +2454,46 @@
 	)
 	(wire
 		(pts
+			(xy 182.88 21.59) (xy 182.88 30.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "55008a7f-9269-499f-bce3-1b19f4f85654")
+	)
+	(wire
+		(pts
+			(xy 285.75 50.8) (xy 285.75 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "559b673d-a8d9-4ca9-b3ea-33ec93db7257")
+	)
+	(wire
+		(pts
+			(xy 306.07 85.09) (xy 320.04 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "55f96f65-f745-41db-a027-ddc052bbdde2")
+	)
+	(wire
+		(pts
+			(xy 220.98 50.8) (xy 220.98 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "56cf0caa-4b37-4e8e-9a9a-035abb4b4067")
+	)
+	(wire
+		(pts
 			(xy 55.88 71.12) (xy 55.88 92.71)
 		)
 		(stroke
@@ -1603,6 +2501,26 @@
 			(type default)
 		)
 		(uuid "57b0b096-0c41-49f6-a159-b2e62d5095b0")
+	)
+	(wire
+		(pts
+			(xy 200.66 106.68) (xy 264.16 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5916e44c-f435-4f9c-975f-2ecc66b8838d")
+	)
+	(wire
+		(pts
+			(xy 264.16 85.09) (xy 276.86 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5a74c7cc-3be8-4b7e-be14-24383fab1e7f")
 	)
 	(wire
 		(pts
@@ -1656,6 +2574,16 @@
 	)
 	(wire
 		(pts
+			(xy 175.26 63.5) (xy 187.96 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5d8abda3-60b2-4150-b063-80aa365224cf")
+	)
+	(wire
+		(pts
 			(xy 144.78 92.71) (xy 144.78 114.3)
 		)
 		(stroke
@@ -1663,6 +2591,16 @@
 			(type default)
 		)
 		(uuid "5e3ac5d5-22db-4a3b-ab82-38398b16dda0")
+	)
+	(wire
+		(pts
+			(xy 264.16 128.27) (xy 276.86 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5e4186b6-6e32-480d-9def-ff9398546487")
 	)
 	(wire
 		(pts
@@ -1683,6 +2621,76 @@
 			(type default)
 		)
 		(uuid "5f9806f4-0511-4dfe-8af9-2cbea1731e58")
+	)
+	(wire
+		(pts
+			(xy 238.76 83.82) (xy 238.76 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6075e31a-83c9-4491-b94f-44871f0a4d07")
+	)
+	(wire
+		(pts
+			(xy 170.18 21.59) (xy 170.18 30.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "60c65b76-5bdb-4fba-b518-b0df94757c1b")
+	)
+	(wire
+		(pts
+			(xy 175.26 85.09) (xy 187.96 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "60d5a4d9-07e4-4af9-ae9e-3239ce28e57a")
+	)
+	(wire
+		(pts
+			(xy 276.86 63.5) (xy 290.83 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6159e389-e18d-4764-ae02-5829c126eeab")
+	)
+	(wire
+		(pts
+			(xy 271.78 50.8) (xy 271.78 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "63ecf4e5-025e-4db8-8c21-45ed33b26fdf")
+	)
+	(wire
+		(pts
+			(xy 290.83 106.68) (xy 320.04 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "64c4addd-4899-49f0-b344-7c8f47220cbe")
+	)
+	(wire
+		(pts
+			(xy 290.83 105.41) (xy 290.83 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "65ba6652-e5f9-4188-b551-8bee1e6ec641")
 	)
 	(wire
 		(pts
@@ -1716,6 +2724,16 @@
 	)
 	(wire
 		(pts
+			(xy 264.16 63.5) (xy 276.86 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "71dc4734-0dc3-45ac-9ce9-735e4d2eeeb7")
+	)
+	(wire
+		(pts
 			(xy 60.96 149.86) (xy 60.96 148.59)
 		)
 		(stroke
@@ -1723,6 +2741,16 @@
 			(type default)
 		)
 		(uuid "71ec8899-f1fd-4306-bb8a-e9300e059b4a")
+	)
+	(wire
+		(pts
+			(xy 170.18 71.12) (xy 170.18 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "72215a40-799b-4bcb-9940-a21302084af5")
 	)
 	(wire
 		(pts
@@ -1736,6 +2764,26 @@
 	)
 	(wire
 		(pts
+			(xy 285.75 114.3) (xy 285.75 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "74e07b8f-e01f-4db0-a30c-46ced457a63f")
+	)
+	(wire
+		(pts
+			(xy 290.83 85.09) (xy 306.07 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "750cf5d7-dbb3-427e-ae22-17b9ef6fbd9c")
+	)
+	(wire
+		(pts
 			(xy 17.78 71.12) (xy 17.78 92.71)
 		)
 		(stroke
@@ -1746,6 +2794,16 @@
 	)
 	(wire
 		(pts
+			(xy 200.66 85.09) (xy 226.06 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7699b6ab-e309-48ca-bbc7-a68457a6bf36")
+	)
+	(wire
+		(pts
 			(xy 60.96 128.27) (xy 73.66 128.27)
 		)
 		(stroke
@@ -1753,6 +2811,16 @@
 			(type default)
 		)
 		(uuid "776c7b19-56ac-43ae-919d-b34523942cbe")
+	)
+	(wire
+		(pts
+			(xy 259.08 114.3) (xy 259.08 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "78c924c9-7b24-49dd-a505-caf6656f2917")
 	)
 	(wire
 		(pts
@@ -1776,13 +2844,43 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 128.27) (xy 162.56 127)
+			(xy 306.07 63.5) (xy 320.04 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7d4bfcb0-7682-49ba-9636-7c7a0acac79c")
+	)
+	(wire
+		(pts
+			(xy 238.76 128.27) (xy 264.16 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7f2d2bb3-c571-4dd9-b3bf-9213559456d4")
+	)
+	(wire
+		(pts
+			(xy 175.26 128.27) (xy 175.26 127)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "8033a26e-65a4-44d8-8bae-e75464f06e2b")
+	)
+	(wire
+		(pts
+			(xy 195.58 114.3) (xy 195.58 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "81d7bfc8-740c-4d4c-b357-18a682aa71be")
 	)
 	(wire
 		(pts
@@ -1793,6 +2891,16 @@
 			(type default)
 		)
 		(uuid "840973e3-040f-4414-b1df-37ed1a09b0be")
+	)
+	(wire
+		(pts
+			(xy 251.46 63.5) (xy 264.16 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "840f9194-ef5f-4c20-9625-c5a828f60a6f")
 	)
 	(wire
 		(pts
@@ -1813,6 +2921,16 @@
 			(type default)
 		)
 		(uuid "8519e1d9-8f24-47a6-9453-7d46b0bcb74e")
+	)
+	(wire
+		(pts
+			(xy 290.83 148.59) (xy 290.83 149.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "85a03e49-76b9-4c58-9e26-f3622d4c8e4e")
 	)
 	(wire
 		(pts
@@ -1846,6 +2964,26 @@
 	)
 	(wire
 		(pts
+			(xy 276.86 85.09) (xy 290.83 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "88241383-c86e-4b7f-83a3-749b1dcb779a")
+	)
+	(wire
+		(pts
+			(xy 226.06 85.09) (xy 238.76 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "88ca8b3b-d3e8-483e-9e71-f41d8a0bb19a")
+	)
+	(wire
+		(pts
 			(xy 93.98 50.8) (xy 93.98 71.12)
 		)
 		(stroke
@@ -1863,6 +3001,16 @@
 			(type default)
 		)
 		(uuid "8ba2cc2a-b1eb-4408-b0d5-49caa7e919b7")
+	)
+	(wire
+		(pts
+			(xy 162.56 85.09) (xy 175.26 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8bee9d39-2226-4a78-8135-f845ab66da1e")
 	)
 	(wire
 		(pts
@@ -1896,6 +3044,16 @@
 	)
 	(wire
 		(pts
+			(xy 220.98 21.59) (xy 220.98 30.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8fa004dd-1474-45dd-a4ed-7ec90000f942")
+	)
+	(wire
+		(pts
 			(xy 73.66 85.09) (xy 73.66 83.82)
 		)
 		(stroke
@@ -1906,6 +3064,26 @@
 	)
 	(wire
 		(pts
+			(xy 200.66 85.09) (xy 187.96 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "91d76b66-7c8d-4af3-8c53-9209e48fb0b5")
+	)
+	(wire
+		(pts
+			(xy 233.68 50.8) (xy 233.68 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "92c2fd70-af52-4dd1-90a1-487bd23ed543")
+	)
+	(wire
+		(pts
 			(xy 93.98 30.48) (xy 93.98 50.8)
 		)
 		(stroke
@@ -1913,6 +3091,16 @@
 			(type default)
 		)
 		(uuid "931c9e14-e9fe-4d62-b834-5d5340a5c169")
+	)
+	(wire
+		(pts
+			(xy 195.58 21.59) (xy 195.58 30.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "931f7763-dc77-412b-b5e3-5af7ae61d57e")
 	)
 	(wire
 		(pts
@@ -1936,6 +3124,16 @@
 	)
 	(wire
 		(pts
+			(xy 195.58 71.12) (xy 195.58 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9672f1f6-dc6f-4575-894f-f11260cd6383")
+	)
+	(wire
+		(pts
 			(xy 73.66 43.18) (xy 86.36 43.18)
 		)
 		(stroke
@@ -1943,6 +3141,26 @@
 			(type default)
 		)
 		(uuid "96f16fb4-58b4-4765-a066-1649a76bf7ff")
+	)
+	(wire
+		(pts
+			(xy 271.78 21.59) (xy 271.78 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "971edbd4-d748-4a6b-9296-516371610c50")
+	)
+	(wire
+		(pts
+			(xy 220.98 71.12) (xy 220.98 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "974efe53-922c-4d1b-94d0-0b1dfa9d691f")
 	)
 	(wire
 		(pts
@@ -1966,6 +3184,16 @@
 	)
 	(wire
 		(pts
+			(xy 251.46 149.86) (xy 251.46 148.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9796c5a2-ee94-4f75-a87c-fb9d8f76309d")
+	)
+	(wire
+		(pts
 			(xy 60.96 63.5) (xy 73.66 63.5)
 		)
 		(stroke
@@ -1983,6 +3211,16 @@
 			(type default)
 		)
 		(uuid "995ba452-e58d-490a-9071-ef27e30ab2da")
+	)
+	(wire
+		(pts
+			(xy 170.18 114.3) (xy 170.18 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "99622b61-4ec9-40a4-8a74-295741123c88")
 	)
 	(wire
 		(pts
@@ -2026,6 +3264,26 @@
 	)
 	(wire
 		(pts
+			(xy 187.96 63.5) (xy 200.66 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a1da6e6e-a411-4933-8e2a-83307921a4d8")
+	)
+	(wire
+		(pts
+			(xy 170.18 30.48) (xy 170.18 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a28d2cc3-05db-4e02-a443-0a35f7fe17ef")
+	)
+	(wire
+		(pts
 			(xy 73.66 106.68) (xy 73.66 105.41)
 		)
 		(stroke
@@ -2056,6 +3314,16 @@
 	)
 	(wire
 		(pts
+			(xy 170.18 92.71) (xy 170.18 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a65d5ce1-746f-454f-9bfc-bd3a76ac0378")
+	)
+	(wire
+		(pts
 			(xy 73.66 85.09) (xy 86.36 85.09)
 		)
 		(stroke
@@ -2063,6 +3331,16 @@
 			(type default)
 		)
 		(uuid "a87b0b62-2d32-466f-a1dd-65daf861ecf9")
+	)
+	(wire
+		(pts
+			(xy 226.06 63.5) (xy 238.76 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a97b86aa-5735-45b9-8223-737101846b72")
 	)
 	(wire
 		(pts
@@ -2076,13 +3354,63 @@
 	)
 	(wire
 		(pts
-			(xy 157.48 114.3) (xy 157.48 135.89)
+			(xy 226.06 149.86) (xy 238.76 149.86)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "afa3669f-9ab6-4f5b-b65e-3cd71e178639")
+		(uuid "aa9899bf-0516-470b-ae75-40359adea598")
+	)
+	(wire
+		(pts
+			(xy 276.86 128.27) (xy 290.83 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ab01f472-5d1c-4a28-8b17-6c7bbeeed232")
+	)
+	(wire
+		(pts
+			(xy 200.66 148.59) (xy 200.66 149.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aea9d15c-900e-43a2-a92f-03848e914969")
+	)
+	(wire
+		(pts
+			(xy 195.58 50.8) (xy 195.58 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aee2a500-6879-4d01-8ea8-7fb5f4eb24e9")
+	)
+	(wire
+		(pts
+			(xy 264.16 83.82) (xy 264.16 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "af2c5d58-d37c-4992-af55-d2b98452e602")
+	)
+	(wire
+		(pts
+			(xy 208.28 21.59) (xy 208.28 30.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b08e0853-736f-4d08-aef6-23881689eb65")
 	)
 	(wire
 		(pts
@@ -2116,6 +3444,36 @@
 	)
 	(wire
 		(pts
+			(xy 264.16 127) (xy 264.16 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b32f3c57-d9b7-472f-91c3-a36252b3c98a")
+	)
+	(wire
+		(pts
+			(xy 175.26 106.68) (xy 175.26 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b432325d-8997-456f-beaa-9f8f6f556bc8")
+	)
+	(wire
+		(pts
+			(xy 264.16 149.86) (xy 290.83 149.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b490dcaa-a087-4507-8b10-da468bb96343")
+	)
+	(wire
+		(pts
 			(xy 137.16 106.68) (xy 137.16 105.41)
 		)
 		(stroke
@@ -2136,6 +3494,16 @@
 	)
 	(wire
 		(pts
+			(xy 220.98 30.48) (xy 220.98 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b6157a14-2c5d-40f2-a442-b0ea846c1c7c")
+	)
+	(wire
+		(pts
 			(xy 106.68 21.59) (xy 106.68 50.8)
 		)
 		(stroke
@@ -2146,6 +3514,16 @@
 	)
 	(wire
 		(pts
+			(xy 276.86 83.82) (xy 276.86 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bab679db-c04d-4203-b81c-6b728f102e25")
+	)
+	(wire
+		(pts
 			(xy 68.58 21.59) (xy 68.58 30.48)
 		)
 		(stroke
@@ -2153,6 +3531,36 @@
 			(type default)
 		)
 		(uuid "bb4c43bb-b28b-41d7-bfd0-556173eadd98")
+	)
+	(wire
+		(pts
+			(xy 276.86 105.41) (xy 276.86 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bb955d2e-31a6-4d89-81a3-864edf6715a4")
+	)
+	(wire
+		(pts
+			(xy 238.76 149.86) (xy 238.76 148.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bf1d670b-9958-4e7d-8de3-bd7b36a76d5b")
+	)
+	(wire
+		(pts
+			(xy 238.76 43.18) (xy 251.46 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c243d621-5cf2-4cf4-adf6-8a5c27d7424e")
 	)
 	(wire
 		(pts
@@ -2183,6 +3591,16 @@
 			(type default)
 		)
 		(uuid "c44e125d-ddc4-4379-aae7-27ce59e5092a")
+	)
+	(wire
+		(pts
+			(xy 170.18 50.8) (xy 170.18 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c4ac989e-9e3a-45ab-a847-f546b4cc7d84")
 	)
 	(wire
 		(pts
@@ -2226,6 +3644,26 @@
 	)
 	(wire
 		(pts
+			(xy 290.83 149.86) (xy 321.31 149.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cb8bc6a2-7bfc-43f2-b7a7-a0a19bd54d74")
+	)
+	(wire
+		(pts
+			(xy 251.46 43.18) (xy 320.04 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cd106d10-3787-400a-9afa-5a11d838ffa7")
+	)
+	(wire
+		(pts
 			(xy 48.26 149.86) (xy 60.96 149.86)
 		)
 		(stroke
@@ -2236,13 +3674,63 @@
 	)
 	(wire
 		(pts
-			(xy 157.48 92.71) (xy 157.48 114.3)
+			(xy 233.68 114.3) (xy 233.68 135.89)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "d06b2c10-dfdf-4ebb-b052-41f3a1cc9e6f")
+		(uuid "ce36e3e2-21f7-4f93-98bd-49a538233a30")
+	)
+	(wire
+		(pts
+			(xy 306.07 127) (xy 306.07 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ce921275-d0a5-489f-8451-ce6b60a09be0")
+	)
+	(wire
+		(pts
+			(xy 238.76 85.09) (xy 251.46 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cedfd17b-42cd-48e1-a7c7-8f3618c19443")
+	)
+	(wire
+		(pts
+			(xy 251.46 149.86) (xy 264.16 149.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cf62befa-f896-476d-b817-af3a3906df0f")
+	)
+	(wire
+		(pts
+			(xy 251.46 83.82) (xy 251.46 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d20400a5-417d-4336-9fac-76a062fa0e6a")
+	)
+	(wire
+		(pts
+			(xy 246.38 21.59) (xy 246.38 30.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d29360e5-2da6-434e-b825-87dad737c2ad")
 	)
 	(wire
 		(pts
@@ -2253,6 +3741,16 @@
 			(type default)
 		)
 		(uuid "d41f144e-6f92-4d6a-8412-7ffdb6b5f404")
+	)
+	(wire
+		(pts
+			(xy 182.88 30.48) (xy 182.88 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d5d083ae-b6ce-4fbe-996d-6890016e2345")
 	)
 	(wire
 		(pts
@@ -2303,6 +3801,26 @@
 			(type default)
 		)
 		(uuid "dd8dee4b-a532-4c3e-ac40-7520338afa6f")
+	)
+	(wire
+		(pts
+			(xy 259.08 92.71) (xy 259.08 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dd9e49d4-59b7-4867-9870-7db10796aed4")
+	)
+	(wire
+		(pts
+			(xy 175.26 149.86) (xy 200.66 149.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ddf0e722-42b7-4277-8584-fa68e71ea905")
 	)
 	(wire
 		(pts
@@ -2376,6 +3894,16 @@
 	)
 	(wire
 		(pts
+			(xy 306.07 128.27) (xy 321.31 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e22f3866-e73b-4951-b220-9b6fa8a27864")
+	)
+	(wire
+		(pts
 			(xy 99.06 106.68) (xy 111.76 106.68)
 		)
 		(stroke
@@ -2393,6 +3921,26 @@
 			(type default)
 		)
 		(uuid "e4b29fe9-ae11-466c-b8f9-534454a6e6ff")
+	)
+	(wire
+		(pts
+			(xy 246.38 71.12) (xy 246.38 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e557e337-d9ad-49e3-8f7e-bc577dad652d")
+	)
+	(wire
+		(pts
+			(xy 276.86 106.68) (xy 290.83 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e6361c3c-b080-4995-b52f-da36c1396806")
 	)
 	(wire
 		(pts
@@ -2476,6 +4024,16 @@
 	)
 	(wire
 		(pts
+			(xy 233.68 21.59) (xy 233.68 30.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ea343191-bd62-4822-b885-b2cdb77dd190")
+	)
+	(wire
+		(pts
 			(xy 124.46 128.27) (xy 124.46 127)
 		)
 		(stroke
@@ -2493,6 +4051,26 @@
 			(type default)
 		)
 		(uuid "ec899e80-accc-4927-848c-69f5bd8a7b42")
+	)
+	(wire
+		(pts
+			(xy 233.68 71.12) (xy 233.68 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eda6f47b-0777-4a3e-a69e-2bca45a09b22")
+	)
+	(wire
+		(pts
+			(xy 200.66 128.27) (xy 238.76 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "edadbf72-6418-4f17-b507-29525234f660")
 	)
 	(wire
 		(pts
@@ -2516,6 +4094,26 @@
 	)
 	(wire
 		(pts
+			(xy 290.83 127) (xy 290.83 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eefd5dca-9949-4629-8ded-1aae66c9d750")
+	)
+	(wire
+		(pts
+			(xy 226.06 43.18) (xy 238.76 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f0a84d80-badd-49e8-a45e-4114b93994d7")
+	)
+	(wire
+		(pts
 			(xy 22.86 128.27) (xy 35.56 128.27)
 		)
 		(stroke
@@ -2533,6 +4131,16 @@
 			(type default)
 		)
 		(uuid "f113ffca-d049-448f-9e2c-5a87d0613e8e")
+	)
+	(wire
+		(pts
+			(xy 259.08 71.12) (xy 259.08 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f2fa56ae-053d-467b-afef-1fc28dd97fe9")
 	)
 	(wire
 		(pts
@@ -2566,6 +4174,36 @@
 	)
 	(wire
 		(pts
+			(xy 290.83 83.82) (xy 290.83 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f56a0e55-218d-4e3f-9982-3d1af4b61b8e")
+	)
+	(wire
+		(pts
+			(xy 271.78 71.12) (xy 271.78 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f63917e8-3f8b-4ebf-8f3c-ea92d88eb671")
+	)
+	(wire
+		(pts
+			(xy 162.56 106.68) (xy 175.26 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f69352c6-6f40-4947-aa48-2d2e735e7768")
+	)
+	(wire
+		(pts
 			(xy 149.86 43.18) (xy 162.56 43.18)
 		)
 		(stroke
@@ -2583,6 +4221,16 @@
 			(type default)
 		)
 		(uuid "f77e56a9-f41a-47d8-aacc-23b95b6d4472")
+	)
+	(wire
+		(pts
+			(xy 259.08 50.8) (xy 259.08 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f9a8468c-0fe4-489f-b0c5-73cb1a2b4f0d")
 	)
 	(wire
 		(pts
@@ -2606,6 +4254,16 @@
 	)
 	(wire
 		(pts
+			(xy 200.66 43.18) (xy 213.36 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fa5128fc-fdac-4070-bc73-8e0b92ac7f7b")
+	)
+	(wire
+		(pts
 			(xy 124.46 85.09) (xy 137.16 85.09)
 		)
 		(stroke
@@ -2616,6 +4274,36 @@
 	)
 	(wire
 		(pts
+			(xy 226.06 83.82) (xy 226.06 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fb5324d4-54f5-40c3-b586-dcd7777ec16a")
+	)
+	(wire
+		(pts
+			(xy 233.68 30.48) (xy 233.68 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fbf0ce64-1415-467f-b665-db441e60d49b")
+	)
+	(wire
+		(pts
+			(xy 200.66 106.68) (xy 200.66 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fcb6dc7d-4b35-4bce-9d6d-16611cf128a9")
+	)
+	(wire
+		(pts
 			(xy 99.06 63.5) (xy 111.76 63.5)
 		)
 		(stroke
@@ -2623,6 +4311,26 @@
 			(type default)
 		)
 		(uuid "fd9c6f46-229e-48f9-b8ce-72a71f34486e")
+	)
+	(wire
+		(pts
+			(xy 213.36 43.18) (xy 226.06 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fe06f7aa-1c68-4d43-8fe2-0e91e23b26e4")
+	)
+	(wire
+		(pts
+			(xy 300.99 71.12) (xy 300.99 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fe32489f-89ed-415a-a64f-4c428a743003")
 	)
 	(wire
 		(pts
@@ -2657,6 +4365,28 @@
 		(uuid "0909590b-87f7-4c02-9e0c-76810fee1ac1")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 81.28 16.1253 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "C22"
+		(shape input)
+		(at 285.75 21.59 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "0c3435a8-fdab-4b0d-88da-f911384a566e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 285.75 14.9158 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2710,6 +4440,28 @@
 			)
 		)
 	)
+	(global_label "C18"
+		(shape input)
+		(at 233.68 21.59 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "2719c8e7-725a-47af-ba52-bf1fb02306b9")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 233.68 14.9158 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "C11"
 		(shape input)
 		(at 144.78 21.59 90)
@@ -2723,6 +4475,28 @@
 		(uuid "2f45dc14-9c98-4101-a3a3-2fee4be08c7d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 144.78 14.9158 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "C16"
+		(shape input)
+		(at 208.28 21.59 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "2f739d17-036d-4d30-afeb-a7fa44fc21c3")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 208.28 14.9158 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2776,6 +4550,94 @@
 			)
 		)
 	)
+	(global_label "R2"
+		(shape input)
+		(at 320.04 63.5 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "41b4a2f9-4bda-4b9a-8978-99d255cb7484")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 325.5047 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "C15"
+		(shape input)
+		(at 195.58 21.59 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "4ad17e8c-0a86-41e4-9f88-acbffd55cb57")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 195.58 14.9158 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "R6"
+		(shape input)
+		(at 321.31 149.86 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "55b577d1-0456-4c7d-88d7-8a2cbe6447ca")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 326.7747 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "C21"
+		(shape input)
+		(at 271.78 21.59 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "677b2f84-cb4f-4f7c-a492-f786bb449d13")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 271.78 14.9158 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "C1"
 		(shape input)
 		(at 17.78 21.59 90)
@@ -2820,7 +4682,29 @@
 			)
 		)
 	)
-	(global_label "C11"
+	(global_label "R4"
+		(shape input)
+		(at 320.04 106.68 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "7abe0059-3913-4f7a-b664-8c5bf49bda3b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 325.5047 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "C12"
 		(shape input)
 		(at 157.48 21.59 90)
 		(fields_autoplaced yes)
@@ -2833,6 +4717,28 @@
 		(uuid "7c903237-4a94-41ca-aca5-7a52d22ccdad")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 157.48 14.9158 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "C19"
+		(shape input)
+		(at 246.38 21.59 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "94c29974-0645-444c-a986-04a93ae29761")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 246.38 14.9158 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2864,6 +4770,50 @@
 			)
 		)
 	)
+	(global_label "C13"
+		(shape input)
+		(at 170.18 21.59 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "a496261a-4616-4caf-9b24-eeb0a58c782f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 170.18 14.9158 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "R5"
+		(shape input)
+		(at 321.31 128.27 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "b7342d8a-2446-4707-b919-8a2dbbc3d39c")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 326.7747 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "C2"
 		(shape input)
 		(at 30.48 21.59 90)
@@ -2877,6 +4827,94 @@
 		(uuid "bb42568e-c1e7-434f-a10e-5f6525fc2599")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 30.48 16.1253 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "R3"
+		(shape input)
+		(at 320.04 85.09 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "be4018d0-afff-4342-8882-3a244b48487b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 325.5047 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "C17"
+		(shape input)
+		(at 220.98 21.59 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d2adee8e-223a-44c6-89c4-dd2de2daf0c2")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 220.98 14.9158 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "R1"
+		(shape input)
+		(at 320.04 43.18 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d68ece6a-da0a-4640-8816-7fb7b55f695b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 325.5047 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "C20"
+		(shape input)
+		(at 259.08 21.59 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "dcdb0585-1418-43f3-8a02-58ae85582538")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 259.08 14.9158 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2905,6 +4943,138 @@
 				)
 				(justify left)
 				(hide yes)
+			)
+		)
+	)
+	(global_label "C23"
+		(shape input)
+		(at 300.99 21.59 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "eed4af64-b9ef-410b-8fcd-f5e9affdd50f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 300.99 14.9158 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "C14"
+		(shape input)
+		(at 182.88 21.59 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "f4c84779-391f-4eca-be5e-4cf52bec5488")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 182.88 14.9158 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D")
+		(at 290.83 123.19 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "000b19c9-4c8e-4458-b2b8-495d433db09d")
+		(property "Reference" "D105"
+			(at 293.37 121.9199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "D"
+			(at 293.37 124.4599 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 290.83 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 290.83 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode"
+			(at 290.83 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 290.83 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 290.83 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2acd80c9-1d64-452a-a5ac-0051068462c0")
+		)
+		(pin "2"
+			(uuid "9b5006a3-8a07-4b0a-a305-a9d65f7d0c0e")
+		)
+		(instances
+			(project "Blueboard-Kicad"
+				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
+					(reference "D105")
+					(unit 1)
+				)
 			)
 		)
 	)
@@ -3085,6 +5255,94 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:D")
+		(at 306.07 123.19 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "03b59673-0739-4a6c-b849-5f3cc076437e")
+		(property "Reference" "D110"
+			(at 308.61 121.9199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "D"
+			(at 308.61 124.4599 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 306.07 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 306.07 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode"
+			(at 306.07 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 306.07 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 306.07 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f0dc1166-012b-4537-b1e5-dae9fc296ec7")
+		)
+		(pin "2"
+			(uuid "07c09b0a-a4d1-4784-ab7e-2f990e242827")
+		)
+		(instances
+			(project "Blueboard-Kicad"
+				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
+					(reference "D110")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Switch:SW_Push_45deg")
 		(at 121.92 95.25 0)
 		(unit 1)
@@ -3146,6 +5404,94 @@
 			(project "Blueboard-Kicad"
 				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
 					(reference "SW45")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D")
+		(at 290.83 80.01 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "03da1a6c-0f3f-4bf3-b294-6dd38630aa02")
+		(property "Reference" "D103"
+			(at 293.37 78.7399 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "D"
+			(at 293.37 81.2799 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 290.83 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 290.83 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode"
+			(at 290.83 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 290.83 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 290.83 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c206b9ce-a523-4962-acc7-415c551048d1")
+		)
+		(pin "2"
+			(uuid "1d6ad448-5238-4ac7-b0c3-f06b9c3ca5a1")
+		)
+		(instances
+			(project "Blueboard-Kicad"
+				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
+					(reference "D103")
 					(unit 1)
 				)
 			)
@@ -3354,6 +5700,207 @@
 		)
 	)
 	(symbol
+		(lib_id "Switch:SW_Push_45deg")
+		(at 303.53 116.84 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "04eb21f5-d25c-4863-943a-4a2972252b74")
+		(property "Reference" "SW110"
+			(at 304.038 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Enter"
+			(at 304.292 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 303.53 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 303.53 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 303.53 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "92a2a7d1-ef3c-4daa-85e8-52913f2da78a")
+		)
+		(pin "2"
+			(uuid "13742e4a-65bf-4689-b04e-c2fdad26d7eb")
+		)
+		(instances
+			(project "Blueboard-Kicad"
+				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
+					(reference "SW110")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_45deg")
+		(at 261.62 53.34 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "055676eb-3493-4347-95a9-5f736d2e2462")
+		(property "Reference" "SW94"
+			(at 261.62 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "NMLCK"
+			(at 262.382 47.752 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 261.62 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 261.62 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 261.62 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c2803ea0-0a24-4ad0-8f2a-3ea8b322052d")
+		)
+		(pin "2"
+			(uuid "cf59bd68-d604-4e6a-9da1-586a3443c2e2")
+		)
+		(instances
+			(project "Blueboard-Kicad"
+				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
+					(reference "SW94")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_45deg")
+		(at 261.62 95.25 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "05db05d3-19db-4dba-8a8f-89687ec62e07")
+		(property "Reference" "SW92"
+			(at 261.62 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "NM4"
+			(at 262.382 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 261.62 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 261.62 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 261.62 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "bce2e0d3-907c-4eb0-aeb9-92b87e58355f")
+		)
+		(pin "2"
+			(uuid "ee5e86a7-1896-42d8-b109-4cd9d80b23c7")
+		)
+		(instances
+			(project "Blueboard-Kicad"
+				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
+					(reference "SW92")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:D")
 		(at 111.76 101.6 90)
 		(unit 1)
@@ -3503,6 +6050,94 @@
 			(project "Blueboard-Kicad"
 				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
 					(reference "SW35")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D")
+		(at 200.66 39.37 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "08c469ef-6652-4243-a113-58fa510ce136")
+		(property "Reference" "D73"
+			(at 203.2 38.0999 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "D"
+			(at 203.2 40.6399 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 200.66 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 200.66 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode"
+			(at 200.66 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 200.66 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 200.66 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b5c9627e-8856-47c5-8ea8-f27bbca07f00")
+		)
+		(pin "2"
+			(uuid "2b7f7036-0eba-4b68-8dd2-ed5c950f5d1c")
+		)
+		(instances
+			(project "Blueboard-Kicad"
+				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
+					(reference "D73")
 					(unit 1)
 				)
 			)
@@ -3665,6 +6300,140 @@
 		)
 	)
 	(symbol
+		(lib_id "Switch:SW_Push_45deg")
+		(at 236.22 116.84 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "0a479c0a-46d6-4a3d-b5b3-28cc5c97af04")
+		(property "Reference" "SW88"
+			(at 236.22 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "UP"
+			(at 236.22 111.506 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 236.22 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 236.22 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 236.22 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "01d89bbf-f572-4126-b8de-21b6bbd9501e")
+		)
+		(pin "2"
+			(uuid "e2ddbc2b-6197-4914-99cf-201c0959155c")
+		)
+		(instances
+			(project "Blueboard-Kicad"
+				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
+					(reference "SW88")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_45deg")
+		(at 261.62 116.84 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "0b43551a-a996-43cb-bf17-5edb765f7e8e")
+		(property "Reference" "SW97"
+			(at 261.62 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "NM1"
+			(at 262.382 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 261.62 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 261.62 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 261.62 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "3e600b43-ad18-453b-8c5b-e9775fd42df0")
+		)
+		(pin "2"
+			(uuid "9c76e38f-c9aa-4ffb-9d50-9a2ee8ae2e1c")
+		)
+		(instances
+			(project "Blueboard-Kicad"
+				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
+					(reference "SW97")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:D")
 		(at 99.06 59.69 90)
 		(unit 1)
@@ -3754,6 +6523,161 @@
 	)
 	(symbol
 		(lib_id "Device:D")
+		(at 226.06 144.78 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0f800305-6551-4f9c-bf1f-a9decd1653ed")
+		(property "Reference" "D85"
+			(at 228.6 143.5099 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "D"
+			(at 228.6 146.0499 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 226.06 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 226.06 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode"
+			(at 226.06 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 226.06 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 226.06 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "7d38c0ee-a5e5-41df-bda5-b48fc01b136e")
+		)
+		(pin "2"
+			(uuid "422ef0b2-b67c-4e02-94d6-6316fabe103b")
+		)
+		(instances
+			(project "Blueboard-Kicad"
+				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
+					(reference "D85")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_45deg")
+		(at 223.52 33.02 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "10db466a-8d29-40b1-be25-0169692922c4")
+		(property "Reference" "SW80"
+			(at 223.52 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "PrtSc"
+			(at 223.52 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 223.52 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 223.52 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 223.52 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8dd8b313-bf9f-4707-862e-8f4f3cdb933d")
+		)
+		(pin "2"
+			(uuid "beeb3ba5-c5b8-4045-94ab-d8e271209fd7")
+		)
+		(instances
+			(project "Blueboard-Kicad"
+				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
+					(reference "SW80")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D")
 		(at 48.26 101.6 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3835,6 +6759,94 @@
 			(project "Blueboard-Kicad"
 				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
 					(reference "D14")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D")
+		(at 251.46 39.37 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1253d778-cd64-4da5-9948-c0565bc4e487")
+		(property "Reference" "D89"
+			(at 254 38.0999 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "D"
+			(at 254 40.6399 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 251.46 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 251.46 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode"
+			(at 251.46 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 251.46 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 251.46 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "08ad5911-d084-4070-83c7-f1b6e797b9a3")
+		)
+		(pin "2"
+			(uuid "e6aa8af5-bebf-49c7-8eee-40ba3398a1f9")
+		)
+		(instances
+			(project "Blueboard-Kicad"
+				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
+					(reference "D89")
 					(unit 1)
 				)
 			)
@@ -3996,6 +7008,161 @@
 		)
 	)
 	(symbol
+		(lib_id "Switch:SW_Push_45deg")
+		(at 223.52 53.34 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "140dfd0e-9f2c-4d8f-a4dd-3cf85fba1a74")
+		(property "Reference" "SW81"
+			(at 223.52 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "INSERT"
+			(at 224.79 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 223.52 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 223.52 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 223.52 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "7a9add51-78bf-4e6a-9ae3-9813b7d262f8")
+		)
+		(pin "2"
+			(uuid "a55b4cb1-1665-4a10-9cc0-5f2328f938b5")
+		)
+		(instances
+			(project "Blueboard-Kicad"
+				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
+					(reference "SW81")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D")
+		(at 290.83 144.78 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "140ea500-91d0-4654-893a-81c2124a9798")
+		(property "Reference" "D106"
+			(at 293.37 143.5099 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "D"
+			(at 293.37 146.0499 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 290.83 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 290.83 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode"
+			(at 290.83 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 290.83 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 290.83 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0183e41f-a48f-4484-8347-434ba270b042")
+		)
+		(pin "2"
+			(uuid "d943fd38-a5bf-4e5e-b11a-b3b8fa642200")
+		)
+		(instances
+			(project "Blueboard-Kicad"
+				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
+					(reference "D106")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:D")
 		(at 73.66 123.19 90)
 		(unit 1)
@@ -4084,6 +7251,94 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:D")
+		(at 238.76 39.37 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "15efee03-bcf8-41e7-8e53-4a38282d069e")
+		(property "Reference" "D83"
+			(at 241.3 38.0999 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "D"
+			(at 241.3 40.6399 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 238.76 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 238.76 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode"
+			(at 238.76 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 238.76 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 238.76 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0705d17e-9e59-4e8d-abb1-39df420213be")
+		)
+		(pin "2"
+			(uuid "ce8baa3a-b012-49d6-8d62-e79c9f20ad93")
+		)
+		(instances
+			(project "Blueboard-Kicad"
+				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
+					(reference "D83")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Switch:SW_Push_45deg")
 		(at 45.72 73.66 0)
 		(unit 1)
@@ -4145,6 +7400,161 @@
 			(project "Blueboard-Kicad"
 				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
 					(reference "SW13")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_45deg")
+		(at 198.12 116.84 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "180dc327-1b60-4485-b1cb-d527c8c3d042")
+		(property "Reference" "SW70"
+			(at 198.12 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SHIFT"
+			(at 198.12 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 198.12 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 198.12 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 198.12 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0d609062-d775-42f8-8a06-ad7a31f733cb")
+		)
+		(pin "2"
+			(uuid "ddda74f5-43b2-45f9-8d2d-004286ae663b")
+		)
+		(instances
+			(project "Blueboard-Kicad"
+				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
+					(reference "SW70")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D")
+		(at 306.07 80.01 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "185db0c0-7c27-4995-8246-31ab0fdaae6b")
+		(property "Reference" "D108"
+			(at 308.61 78.7399 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "D"
+			(at 308.61 81.2799 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 306.07 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 306.07 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode"
+			(at 306.07 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 306.07 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 306.07 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e32e3aa4-8fe7-46aa-9fc4-c4c88e8bb4d9")
+		)
+		(pin "2"
+			(uuid "c4bb0204-e68d-4ec6-b46b-0061a1cedd5a")
+		)
+		(instances
+			(project "Blueboard-Kicad"
+				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
+					(reference "D108")
 					(unit 1)
 				)
 			)
@@ -4300,6 +7710,140 @@
 			(project "Blueboard-Kicad"
 				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
 					(reference "D26")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_45deg")
+		(at 303.53 73.66 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "19c29374-80a1-4926-be0a-d76d633760e6")
+		(property "Reference" "SW108"
+			(at 304.292 66.294 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+"
+			(at 304.292 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 303.53 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 303.53 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 303.53 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f0c9fba6-abab-425c-a2d0-476743f4ff0b")
+		)
+		(pin "2"
+			(uuid "e74f13e7-77eb-48db-af25-472364e89e17")
+		)
+		(instances
+			(project "Blueboard-Kicad"
+				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
+					(reference "SW108")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_45deg")
+		(at 185.42 33.02 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "1a7394ca-a3c8-4d66-af59-a8c0faea1897")
+		(property "Reference" "SW77"
+			(at 185.42 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "F10"
+			(at 185.42 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 185.42 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 185.42 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 185.42 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "bfb70922-aaa6-4b6c-a9bc-21d6cba6f445")
+		)
+		(pin "2"
+			(uuid "809b0330-7427-4462-bade-84f27fac0ca9")
+		)
+		(instances
+			(project "Blueboard-Kicad"
+				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
+					(reference "SW77")
 					(unit 1)
 				)
 			)
@@ -4663,6 +8207,73 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push_45deg")
+		(at 198.12 33.02 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "22baafbc-f7b5-435e-b784-f95fa3a1b6fa")
+		(property "Reference" "SW73"
+			(at 198.12 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "F11"
+			(at 198.12 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 198.12 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 198.12 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 198.12 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c2cdb434-dafd-4355-bbf0-18f581e940e9")
+		)
+		(pin "2"
+			(uuid "4f48db1c-d542-4546-80d7-70de6558be93")
+		)
+		(instances
+			(project "Blueboard-Kicad"
+				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
+					(reference "SW73")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_45deg")
 		(at 45.72 116.84 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4723,6 +8334,73 @@
 			(project "Blueboard-Kicad"
 				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
 					(reference "SW15")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_45deg")
+		(at 248.92 138.43 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "25966681-513c-485b-9b01-6d1cbad30019")
+		(property "Reference" "SW93"
+			(at 248.92 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "RGHT"
+			(at 248.92 133.096 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 248.92 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 248.92 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 248.92 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d641edc8-a171-430d-b322-3cab5417255a")
+		)
+		(pin "2"
+			(uuid "0a4c9f60-a0b3-4866-9b63-499936cb7038")
+		)
+		(instances
+			(project "Blueboard-Kicad"
+				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
+					(reference "SW93")
 					(unit 1)
 				)
 			)
@@ -4946,6 +8624,228 @@
 			(project "Blueboard-Kicad"
 				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
 					(reference "SW9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D")
+		(at 238.76 80.01 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "28e07b64-f3f7-4a8b-b862-4187ae66565a")
+		(property "Reference" "D86"
+			(at 241.3 78.7399 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "D"
+			(at 241.3 81.2799 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 238.76 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 238.76 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode"
+			(at 238.76 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 238.76 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 238.76 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2da60b36-5504-421a-b0c0-09281defbe9b")
+		)
+		(pin "2"
+			(uuid "0ccda5a6-428b-4760-b24e-430acb09c530")
+		)
+		(instances
+			(project "Blueboard-Kicad"
+				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
+					(reference "D86")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_45deg")
+		(at 223.52 138.43 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "2918f9c6-9ee6-4a6d-9692-654a0a9515ac")
+		(property "Reference" "SW85"
+			(at 223.52 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LEFT"
+			(at 223.266 133.096 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 223.52 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 223.52 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 223.52 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "afa26d52-fe39-4a3e-ac3f-16a7d79545ac")
+		)
+		(pin "2"
+			(uuid "a595e014-a927-4d6c-82a3-69e72281e5a9")
+		)
+		(instances
+			(project "Blueboard-Kicad"
+				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
+					(reference "SW85")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_45deg")
+		(at 172.72 73.66 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "2a9f9a4e-867f-458d-9b93-ef3f614d74cb")
+		(property "Reference" "SW68"
+			(at 172.72 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "{"
+			(at 172.72 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 172.72 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 172.72 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 172.72 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "3727912e-e082-4695-92fb-46aa2726260a")
+		)
+		(pin "2"
+			(uuid "9c3685f1-c2f3-4fa3-b177-069fa7ebb019")
+		)
+		(instances
+			(project "Blueboard-Kicad"
+				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
+					(reference "SW68")
 					(unit 1)
 				)
 			)
@@ -5283,6 +9183,161 @@
 		)
 	)
 	(symbol
+		(lib_id "Switch:SW_Push_45deg")
+		(at 274.32 116.84 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "2f1878d1-91f0-4a26-927c-99c5dbcc6f5a")
+		(property "Reference" "SW101"
+			(at 274.828 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "NM2"
+			(at 275.082 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 274.32 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 274.32 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 274.32 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "cce699b5-5c88-4a88-aaa8-4315b2c029c1")
+		)
+		(pin "2"
+			(uuid "73be4cee-b08d-42d2-9f3c-4fd4ed7b75a2")
+		)
+		(instances
+			(project "Blueboard-Kicad"
+				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
+					(reference "SW101")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D")
+		(at 175.26 101.6 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3024f352-b7df-48e6-95ca-eb95fdaea2cc")
+		(property "Reference" "D69"
+			(at 177.8 100.3299 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "D"
+			(at 177.8 102.8699 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 175.26 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 175.26 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode"
+			(at 175.26 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 175.26 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 175.26 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "766a1f9e-31d9-43dc-8741-03de4219fec7")
+		)
+		(pin "2"
+			(uuid "d9263f0b-4833-4d04-af46-9b6354025799")
+		)
+		(instances
+			(project "Blueboard-Kicad"
+				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
+					(reference "D69")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:D")
 		(at 99.06 123.19 90)
 		(unit 1)
@@ -5365,6 +9420,228 @@
 			(project "Blueboard-Kicad"
 				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
 					(reference "D37")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_45deg")
+		(at 288.29 73.66 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "334596b8-6772-4a5b-89ac-b4447e75af92")
+		(property "Reference" "SW103"
+			(at 289.052 66.294 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "NM9"
+			(at 289.052 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 288.29 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 288.29 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 288.29 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "881f662e-b4a5-4d57-b6ca-dfb0bc1693a2")
+		)
+		(pin "2"
+			(uuid "54944a76-d42b-4b33-9ff2-8ffbfb55e301")
+		)
+		(instances
+			(project "Blueboard-Kicad"
+				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
+					(reference "SW103")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D")
+		(at 290.83 59.69 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "36fa2467-7e2c-4cf4-a01b-27cd8d5c997a")
+		(property "Reference" "D102"
+			(at 293.37 58.4199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "D"
+			(at 293.37 60.9599 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 290.83 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 290.83 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode"
+			(at 290.83 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 290.83 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 290.83 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "558821d8-7551-4824-bac3-4f4b0834b4cd")
+		)
+		(pin "2"
+			(uuid "4575c04b-29d0-48a3-a4c4-98296ab921e9")
+		)
+		(instances
+			(project "Blueboard-Kicad"
+				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
+					(reference "D102")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_45deg")
+		(at 198.12 53.34 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "3b1cf188-1f2c-4026-b680-618e903acd86")
+		(property "Reference" "SW74"
+			(at 198.12 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "BKSPCE"
+			(at 199.39 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 198.12 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 198.12 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 198.12 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2a4d49eb-d4c6-4fb0-8f88-6a0fad80863a")
+		)
+		(pin "2"
+			(uuid "9a47d7b7-4b8c-41c1-93fc-bafde28b4c90")
+		)
+		(instances
+			(project "Blueboard-Kicad"
+				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
+					(reference "SW74")
 					(unit 1)
 				)
 			)
@@ -5460,7 +9737,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push_45deg")
-		(at 160.02 116.84 0)
+		(at 172.72 116.84 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5468,7 +9745,7 @@
 		(dnp no)
 		(uuid "3f5c8573-7d24-4755-bdeb-186037b01eca")
 		(property "Reference" "SW64"
-			(at 160.02 109.22 0)
+			(at 172.72 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5476,7 +9753,7 @@
 			)
 		)
 		(property "Value" "?"
-			(at 160.02 111.76 0)
+			(at 172.72 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5484,7 +9761,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 160.02 116.84 0)
+			(at 172.72 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5493,7 +9770,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 160.02 116.84 0)
+			(at 172.72 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5502,7 +9779,7 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 160.02 116.84 0)
+			(at 172.72 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5520,6 +9797,161 @@
 			(project "Blueboard-Kicad"
 				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
 					(reference "SW64")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_45deg")
+		(at 303.53 53.34 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "45f7163e-f37b-427f-a646-34991000ce8b")
+		(property "Reference" "SW107"
+			(at 304.292 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "-"
+			(at 304.292 47.752 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 303.53 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 303.53 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 303.53 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "810b102b-0e9a-415f-ab1f-11bb70214bb2")
+		)
+		(pin "2"
+			(uuid "b9e01e37-90cf-4e16-9f9a-41e41e74de84")
+		)
+		(instances
+			(project "Blueboard-Kicad"
+				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
+					(reference "SW107")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D")
+		(at 187.96 59.69 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "46721992-9136-43a9-a12f-daf659368328")
+		(property "Reference" "D66"
+			(at 190.5 58.4199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "D"
+			(at 190.5 60.9599 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 187.96 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 187.96 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode"
+			(at 187.96 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 187.96 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 187.96 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "10e71770-f573-40ac-80c3-5e09fbe8d2b8")
+		)
+		(pin "2"
+			(uuid "6e8624d9-bb6a-4066-9f92-ca91dcdf400f")
+		)
+		(instances
+			(project "Blueboard-Kicad"
+				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
+					(reference "D66")
 					(unit 1)
 				)
 			)
@@ -5660,6 +10092,73 @@
 		)
 	)
 	(symbol
+		(lib_id "Switch:SW_Push_45deg")
+		(at 198.12 138.43 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "4a2e7e07-0585-4d6b-b40b-97d0dc02018b")
+		(property "Reference" "SW71"
+			(at 198.12 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "CTR"
+			(at 198.628 133.096 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 198.12 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 198.12 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 198.12 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "4fcc4901-5bea-4702-85a3-df4d66707305")
+		)
+		(pin "2"
+			(uuid "ea8a0648-758a-4fee-b558-37b2473a525e")
+		)
+		(instances
+			(project "Blueboard-Kicad"
+				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
+					(reference "SW71")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:D")
 		(at 124.46 59.69 90)
 		(unit 1)
@@ -5748,6 +10247,94 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:D")
+		(at 175.26 80.01 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4ef53500-90e6-4956-ad64-55898850cb1c")
+		(property "Reference" "D68"
+			(at 177.8 78.7399 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "D"
+			(at 177.8 81.2799 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 175.26 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 175.26 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode"
+			(at 175.26 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 175.26 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 175.26 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "aa44c4dc-2ec0-4b84-9428-58d919a5a4eb")
+		)
+		(pin "2"
+			(uuid "fea2638c-58cf-430c-b66d-779ff3a196be")
+		)
+		(instances
+			(project "Blueboard-Kicad"
+				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
+					(reference "D68")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Switch:SW_Push_45deg")
 		(at 58.42 138.43 0)
 		(unit 1)
@@ -5809,6 +10396,73 @@
 			(project "Blueboard-Kicad"
 				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
 					(reference "SW22")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_45deg")
+		(at 198.12 73.66 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "55b17d6b-1dff-4421-852f-bf61b09b407f")
+		(property "Reference" "SW75"
+			(at 198.12 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "/"
+			(at 198.12 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 198.12 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 198.12 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 198.12 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5bdb0f29-1a60-4838-a003-41588400104e")
+		)
+		(pin "2"
+			(uuid "c1449aa3-4dfd-4b2d-87ef-a9c2ffdc9450")
+		)
+		(instances
+			(project "Blueboard-Kicad"
+				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
+					(reference "SW75")
 					(unit 1)
 				)
 			)
@@ -6037,6 +10691,94 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:D")
+		(at 251.46 59.69 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5723e750-4789-4bcb-b905-f5092a112657")
+		(property "Reference" "D90"
+			(at 254 58.4199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "D"
+			(at 254 60.9599 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 251.46 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 251.46 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode"
+			(at 251.46 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 251.46 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 251.46 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9b132833-c97c-452e-8516-42c32565ce79")
+		)
+		(pin "2"
+			(uuid "687d921d-a9c1-4079-8e65-5c2eaa32c402")
+		)
+		(instances
+			(project "Blueboard-Kicad"
+				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
+					(reference "D90")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Switch:SW_Push_45deg")
 		(at 20.32 73.66 0)
 		(unit 1)
@@ -6099,6 +10841,161 @@
 			(project "Blueboard-Kicad"
 				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
 					(reference "SW3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_45deg")
+		(at 248.92 53.34 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "5c6d1dff-fdbb-4255-b120-1be5210588c4")
+		(property "Reference" "SW90"
+			(at 248.92 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "PgUP"
+			(at 249.174 48.006 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 248.92 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 248.92 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 248.92 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "813bcc0b-3340-43ec-b3dc-7dd215607dbb")
+		)
+		(pin "2"
+			(uuid "8cf2add1-dccb-4ac1-ad09-180101eb7090")
+		)
+		(instances
+			(project "Blueboard-Kicad"
+				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
+					(reference "SW90")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D")
+		(at 226.06 80.01 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5d369308-a3c3-42f4-8724-f372f00b8d6d")
+		(property "Reference" "D82"
+			(at 228.6 78.7399 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "D"
+			(at 228.6 81.2799 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 226.06 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 226.06 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode"
+			(at 226.06 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 226.06 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 226.06 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d8ff55d2-e400-41ea-873e-c7a94f3773a3")
+		)
+		(pin "2"
+			(uuid "822afc4d-9535-4ca4-a61d-af51515b63a8")
+		)
+		(instances
+			(project "Blueboard-Kicad"
+				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
+					(reference "D82")
 					(unit 1)
 				)
 			)
@@ -6482,6 +11379,94 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:D")
+		(at 264.16 80.01 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6359c0eb-61e5-4d48-afe0-ab9075b8ad6c")
+		(property "Reference" "D95"
+			(at 266.7 78.7399 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "D"
+			(at 266.7 81.2799 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 264.16 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 264.16 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode"
+			(at 264.16 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 264.16 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 264.16 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "36568d40-8eb2-4f6d-a1ab-96ef7b610da8")
+		)
+		(pin "2"
+			(uuid "6a81d6b2-8c45-418b-8e25-f21bb3083bc5")
+		)
+		(instances
+			(project "Blueboard-Kicad"
+				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
+					(reference "D95")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Switch:SW_Push_45deg")
 		(at 109.22 116.84 0)
 		(unit 1)
@@ -6549,6 +11534,182 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:D")
+		(at 290.83 101.6 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "653d9f07-53c5-4ad8-8777-78ee153400e8")
+		(property "Reference" "D104"
+			(at 293.37 100.3299 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "D"
+			(at 293.37 102.8699 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 290.83 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 290.83 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode"
+			(at 290.83 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 290.83 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 290.83 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "02e277e9-b9ec-4b9d-9754-c33e006956bb")
+		)
+		(pin "2"
+			(uuid "88c66400-0ea7-4495-8970-22f196821085")
+		)
+		(instances
+			(project "Blueboard-Kicad"
+				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
+					(reference "D104")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D")
+		(at 264.16 144.78 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6543de7b-4f56-4e72-82cd-b97cd3c7f006")
+		(property "Reference" "D96"
+			(at 266.7 143.5099 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "D"
+			(at 266.7 146.0499 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 264.16 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 264.16 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode"
+			(at 264.16 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 264.16 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 264.16 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "3aa5d30a-fdef-41ea-8010-ecbba074114b")
+		)
+		(pin "2"
+			(uuid "80b8e99b-abaa-4d41-969a-62221d8d4b9a")
+		)
+		(instances
+			(project "Blueboard-Kicad"
+				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
+					(reference "D96")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Switch:SW_Push_45deg")
 		(at 58.42 33.02 0)
 		(unit 1)
@@ -6610,6 +11771,94 @@
 			(project "Blueboard-Kicad"
 				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
 					(reference "SW17")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D")
+		(at 251.46 80.01 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6556a3d0-b8c0-4eea-b5b1-6ac9d53efa53")
+		(property "Reference" "D91"
+			(at 254 78.7399 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "D"
+			(at 254 81.2799 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 251.46 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 251.46 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode"
+			(at 251.46 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 251.46 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 251.46 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "87bd00bb-82f6-4b20-ae65-79bbaf2f1aa7")
+		)
+		(pin "2"
+			(uuid "a18cd2d1-b7a5-4dfc-b2b3-def74aa08312")
+		)
+		(instances
+			(project "Blueboard-Kicad"
+				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
+					(reference "D91")
 					(unit 1)
 				)
 			)
@@ -6880,6 +12129,161 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:D")
+		(at 187.96 80.01 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6e203c62-7500-40a9-b67f-7fdfd19841f4")
+		(property "Reference" "D72"
+			(at 190.5 78.7399 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "D"
+			(at 190.5 81.2799 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 187.96 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 187.96 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode"
+			(at 187.96 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 187.96 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 187.96 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0133499c-e155-400d-8365-1bb94d63b632")
+		)
+		(pin "2"
+			(uuid "7a6c1a5e-2444-48a9-92aa-48cd72ac3e47")
+		)
+		(instances
+			(project "Blueboard-Kicad"
+				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
+					(reference "D72")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_45deg")
+		(at 288.29 95.25 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "7064ec8b-3769-4912-9a1f-96c6b328753b")
+		(property "Reference" "SW104"
+			(at 289.052 87.376 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "NM6"
+			(at 289.052 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 288.29 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 288.29 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 288.29 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "90a9dea6-2ca6-47a4-b82d-1a45828fd375")
+		)
+		(pin "2"
+			(uuid "8a1a5116-43cb-4150-b27c-4121de3f9f60")
+		)
+		(instances
+			(project "Blueboard-Kicad"
+				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
+					(reference "SW104")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Switch:SW_Push_45deg")
 		(at 147.32 33.02 0)
 		(unit 1)
@@ -6941,6 +12345,94 @@
 			(project "Blueboard-Kicad"
 				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
 					(reference "SW54")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D")
+		(at 238.76 144.78 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "75c1d966-492a-48f8-81cc-9c2d58f8c56e")
+		(property "Reference" "D87"
+			(at 241.3 143.5099 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "D"
+			(at 241.3 146.0499 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 238.76 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 238.76 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode"
+			(at 238.76 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 238.76 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 238.76 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "335eda94-ef1f-4b67-9643-2480b1d61485")
+		)
+		(pin "2"
+			(uuid "45f93b64-ca84-4931-ab39-308e0c909f69")
+		)
+		(instances
+			(project "Blueboard-Kicad"
+				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
+					(reference "D87")
 					(unit 1)
 				)
 			)
@@ -7029,6 +12521,94 @@
 			(project "Blueboard-Kicad"
 				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
 					(reference "D42")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D")
+		(at 200.66 123.19 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7817bd02-2549-44d8-992b-589da2f4e4dd")
+		(property "Reference" "D70"
+			(at 203.2 121.9199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "D"
+			(at 203.2 124.4599 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 200.66 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 200.66 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode"
+			(at 200.66 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 200.66 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 200.66 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b55fac62-ad7c-4645-9b0b-89e47f7f88e4")
+		)
+		(pin "2"
+			(uuid "573b97ea-5a33-47f1-9799-2cccf8753fc6")
+		)
+		(instances
+			(project "Blueboard-Kicad"
+				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
+					(reference "D70")
 					(unit 1)
 				)
 			)
@@ -7237,6 +12817,249 @@
 		)
 	)
 	(symbol
+		(lib_id "Switch:SW_Push_45deg")
+		(at 236.22 33.02 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "7accbb66-7b6e-4f38-8625-81389a967d2a")
+		(property "Reference" "SW83"
+			(at 236.22 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SCRLLCK"
+			(at 237.998 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 236.22 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 236.22 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 236.22 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "74d0c3f6-18ae-4a6c-a411-db9ee8ca117c")
+		)
+		(pin "2"
+			(uuid "87b05be0-90c6-43e7-98eb-52c02118f20e")
+		)
+		(instances
+			(project "Blueboard-Kicad"
+				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
+					(reference "SW83")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D")
+		(at 276.86 101.6 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7d1d5899-618c-43cc-b8d1-0f17f9c20a99")
+		(property "Reference" "D100"
+			(at 279.4 100.3299 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "D"
+			(at 279.4 102.8699 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 276.86 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 276.86 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode"
+			(at 276.86 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 276.86 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 276.86 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "62a15564-0cc0-4356-a823-91ff1053a324")
+		)
+		(pin "2"
+			(uuid "ed288b72-4ccd-4a60-a505-4883858f1c8b")
+		)
+		(instances
+			(project "Blueboard-Kicad"
+				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
+					(reference "D100")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D")
+		(at 276.86 59.69 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7e37f2d6-2537-4f15-b9e6-73f0c4ac8346")
+		(property "Reference" "D98"
+			(at 279.4 58.4199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "D"
+			(at 279.4 60.9599 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 276.86 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 276.86 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode"
+			(at 276.86 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 276.86 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 276.86 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "dc8431bf-d8e2-48ec-9d5c-ffb532b6d3c3")
+		)
+		(pin "2"
+			(uuid "a1456723-fb79-436b-b79e-42179412fb8b")
+		)
+		(instances
+			(project "Blueboard-Kicad"
+				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
+					(reference "D98")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:D")
 		(at 86.36 39.37 90)
 		(unit 1)
@@ -7319,6 +13142,73 @@
 			(project "Blueboard-Kicad"
 				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
 					(reference "D28")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_45deg")
+		(at 261.62 138.43 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "7f731a8d-38ab-4169-8e7b-2a72de2f3123")
+		(property "Reference" "SW96"
+			(at 261.62 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "NM 0"
+			(at 261.62 133.096 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 261.62 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 261.62 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 261.62 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5c284f0d-5698-4813-a5cc-da383ea156a4")
+		)
+		(pin "2"
+			(uuid "768274d5-871b-44a3-b477-57d00920fdd7")
+		)
+		(instances
+			(project "Blueboard-Kicad"
+				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
+					(reference "SW96")
 					(unit 1)
 				)
 			)
@@ -7629,6 +13519,73 @@
 			(project "Blueboard-Kicad"
 				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
 					(reference "D50")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_45deg")
+		(at 236.22 73.66 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "850222f1-134d-4599-a9ee-d7e1f2887685")
+		(property "Reference" "SW86"
+			(at 236.22 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "END"
+			(at 235.966 68.326 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 236.22 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 236.22 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 236.22 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "4a52942c-1db4-48f4-bbb0-968c8d1feca3")
+		)
+		(pin "2"
+			(uuid "18bdb9e8-e1cd-4967-b0f2-24b464568011")
+		)
+		(instances
+			(project "Blueboard-Kicad"
+				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
+					(reference "SW86")
 					(unit 1)
 				)
 			)
@@ -7987,6 +13944,140 @@
 		)
 	)
 	(symbol
+		(lib_id "Switch:SW_Push_45deg")
+		(at 210.82 33.02 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "8ca7f247-d9cb-475d-b705-161d63d17670")
+		(property "Reference" "SW79"
+			(at 210.82 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "F12"
+			(at 210.82 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 210.82 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 210.82 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 210.82 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b0406859-b254-4941-9851-a01a1ece7ef2")
+		)
+		(pin "2"
+			(uuid "7e19335b-6aef-4a2d-b8b9-e2e83e8b9747")
+		)
+		(instances
+			(project "Blueboard-Kicad"
+				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
+					(reference "SW79")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_45deg")
+		(at 274.32 95.25 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "8d0abea8-2e8b-4c9d-ba88-0d51738bf8a1")
+		(property "Reference" "SW100"
+			(at 275.082 87.376 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "NM5"
+			(at 275.082 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 274.32 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 274.32 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 274.32 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d833dfb3-eb14-4d7e-be4f-5e803f00c623")
+		)
+		(pin "2"
+			(uuid "0493f7e9-9cfc-4ca0-a158-01f2ce12601d")
+		)
+		(instances
+			(project "Blueboard-Kicad"
+				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
+					(reference "SW100")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:D")
 		(at 22.86 59.69 90)
 		(unit 1)
@@ -8142,35 +14233,32 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:D")
-		(at 162.56 123.19 90)
+		(lib_id "Switch:SW_Push_45deg")
+		(at 288.29 53.34 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "9344e878-aacf-418b-b870-ebc5bdd1130c")
-		(property "Reference" "D64"
-			(at 165.1 121.9199 90)
+		(uuid "91200ba0-2c5b-4adf-92e3-a50d256d1da3")
+		(property "Reference" "SW102"
+			(at 289.052 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
 			)
 		)
-		(property "Value" "D"
-			(at 165.1 124.4599 90)
+		(property "Value" "*"
+			(at 289.052 47.752 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
 			)
 		)
 		(property "Footprint" ""
-			(at 162.56 123.19 0)
+			(at 288.29 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8179,7 +14267,77 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 162.56 123.19 0)
+			(at 288.29 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 288.29 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "340989f2-40ef-40f8-9366-fe90a0d082ad")
+		)
+		(pin "2"
+			(uuid "994e01d1-cfc8-4b93-b118-3317f2d4fb05")
+		)
+		(instances
+			(project "Blueboard-Kicad"
+				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
+					(reference "SW102")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D")
+		(at 175.26 123.19 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9344e878-aacf-418b-b870-ebc5bdd1130c")
+		(property "Reference" "D64"
+			(at 177.8 121.9199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "D"
+			(at 177.8 124.4599 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 175.26 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 175.26 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8188,7 +14346,7 @@
 			)
 		)
 		(property "Description" "Diode"
-			(at 162.56 123.19 0)
+			(at 175.26 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8197,7 +14355,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 162.56 123.19 0)
+			(at 175.26 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8206,7 +14364,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 162.56 123.19 0)
+			(at 175.26 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8224,6 +14382,73 @@
 			(project "Blueboard-Kicad"
 				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
 					(reference "D64")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_45deg")
+		(at 198.12 95.25 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "93863b27-5b38-4d19-82f9-9b94c38cf5a2")
+		(property "Reference" "SW78"
+			(at 198.12 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "ENTR"
+			(at 198.12 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 198.12 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 198.12 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 198.12 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2e7b885d-3b88-40f8-8655-4a1c4cd18fbe")
+		)
+		(pin "2"
+			(uuid "b029b6e1-ccb4-4124-9fb9-c73979924e47")
+		)
+		(instances
+			(project "Blueboard-Kicad"
+				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
+					(reference "SW78")
 					(unit 1)
 				)
 			)
@@ -8298,6 +14523,140 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push_45deg")
+		(at 185.42 53.34 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "9628e69b-0b81-4dd4-a48c-4918f06fbded")
+		(property "Reference" "SW66"
+			(at 185.42 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+"
+			(at 185.42 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 185.42 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 185.42 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 185.42 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9fcf632f-f27b-4341-84ea-aff9c26d83ad")
+		)
+		(pin "2"
+			(uuid "3f2ff989-51cc-4677-830c-cfd55255f541")
+		)
+		(instances
+			(project "Blueboard-Kicad"
+				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
+					(reference "SW66")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_45deg")
+		(at 288.29 138.43 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "966bac86-ce44-46a0-b2d2-fe030ca13680")
+		(property "Reference" "SW106"
+			(at 288.798 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "."
+			(at 289.052 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 288.29 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 288.29 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 288.29 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "54ce2b0b-2e18-4823-b3bc-edf0b36d6b40")
+		)
+		(pin "2"
+			(uuid "e79caa0b-b8d3-48ac-8c47-5216f298f65d")
+		)
+		(instances
+			(project "Blueboard-Kicad"
+				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
+					(reference "SW106")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_45deg")
 		(at 96.52 53.34 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -8358,6 +14717,73 @@
 			(project "Blueboard-Kicad"
 				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
 					(reference "SW34")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_45deg")
+		(at 274.32 73.66 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "97b3c941-d4a2-4f76-b95d-86eb14558f02")
+		(property "Reference" "SW99"
+			(at 274.32 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "NM8"
+			(at 275.082 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 274.32 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 274.32 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 274.32 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "27ac56cb-dd70-4091-8bbe-28515aad11a7")
+		)
+		(pin "2"
+			(uuid "96894979-628d-407e-99b1-9fb5ccdb2529")
+		)
+		(instances
+			(project "Blueboard-Kicad"
+				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
+					(reference "SW99")
 					(unit 1)
 				)
 			)
@@ -9093,6 +15519,182 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:D")
+		(at 213.36 39.37 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a4b161b7-7f33-4a93-a018-6d3d2a84c429")
+		(property "Reference" "D79"
+			(at 215.9 38.0999 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "D"
+			(at 215.9 40.6399 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 213.36 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 213.36 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode"
+			(at 213.36 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 213.36 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 213.36 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d9678f82-a468-473b-af13-d10b34331450")
+		)
+		(pin "2"
+			(uuid "ff8c0b27-d22c-41ff-a7f2-577d3c789ea3")
+		)
+		(instances
+			(project "Blueboard-Kicad"
+				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
+					(reference "D79")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D")
+		(at 187.96 39.37 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a64b3ce0-4656-4068-ba59-df51048ced7c")
+		(property "Reference" "D77"
+			(at 190.5 38.0999 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "D"
+			(at 190.5 40.6399 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 187.96 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 187.96 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode"
+			(at 187.96 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 187.96 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 187.96 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "28405731-b036-4f64-9e51-722ada25c4de")
+		)
+		(pin "2"
+			(uuid "2d3dbfbb-726f-419a-9901-7c9a587a5963")
+		)
+		(instances
+			(project "Blueboard-Kicad"
+				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
+					(reference "D77")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Switch:SW_Push_45deg")
 		(at 134.62 95.25 0)
 		(unit 1)
@@ -9316,6 +15918,94 @@
 	)
 	(symbol
 		(lib_id "Device:D")
+		(at 175.26 39.37 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a8fb5687-171b-42db-864e-d8ef18291e30")
+		(property "Reference" "D76"
+			(at 177.8 38.0999 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "D"
+			(at 177.8 40.6399 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 175.26 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 175.26 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode"
+			(at 175.26 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 175.26 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 175.26 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e03625c9-6693-4193-96e5-b066b589c885")
+		)
+		(pin "2"
+			(uuid "139b32be-b1b4-463d-8309-4ed36406043d")
+		)
+		(instances
+			(project "Blueboard-Kicad"
+				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
+					(reference "D76")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D")
 		(at 99.06 80.01 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -9492,6 +16182,94 @@
 	)
 	(symbol
 		(lib_id "Device:D")
+		(at 200.66 101.6 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "abe95fa8-c4a7-4554-a7d5-1c03215ca6d0")
+		(property "Reference" "D78"
+			(at 203.2 100.3299 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "D"
+			(at 203.2 102.8699 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 200.66 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 200.66 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode"
+			(at 200.66 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 200.66 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 200.66 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "85bbacc1-7367-4a79-8d64-dc6453174abe")
+		)
+		(pin "2"
+			(uuid "ed129e84-4e65-4f77-bc20-84c363aeaabd")
+		)
+		(instances
+			(project "Blueboard-Kicad"
+				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
+					(reference "D78")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D")
 		(at 149.86 123.19 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -9661,6 +16439,73 @@
 			(project "Blueboard-Kicad"
 				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
 					(reference "D12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_45deg")
+		(at 185.42 73.66 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "adb1df35-9307-4656-aa2a-94c222b8b2a0")
+		(property "Reference" "SW72"
+			(at 185.42 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "}"
+			(at 185.42 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 185.42 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 185.42 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 185.42 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f2275dd7-2557-4f51-97f0-03196c6224fb")
+		)
+		(pin "2"
+			(uuid "b79fe30b-2f6e-4a9f-be81-09d856d034b2")
+		)
+		(instances
+			(project "Blueboard-Kicad"
+				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
+					(reference "SW72")
 					(unit 1)
 				)
 			)
@@ -9957,6 +16802,94 @@
 	)
 	(symbol
 		(lib_id "Device:D")
+		(at 264.16 123.19 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b46f31ea-a283-4133-849e-7c472255862c")
+		(property "Reference" "D97"
+			(at 266.7 121.9199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "D"
+			(at 266.7 124.4599 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 264.16 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 264.16 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode"
+			(at 264.16 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 264.16 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 264.16 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "39cb55cf-5e02-4312-9f81-d6dde30f3d1b")
+		)
+		(pin "2"
+			(uuid "f4c19c56-139f-441f-b026-3ff0a738e692")
+		)
+		(instances
+			(project "Blueboard-Kicad"
+				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
+					(reference "D97")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D")
 		(at 162.56 101.6 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -10038,6 +16971,161 @@
 			(project "Blueboard-Kicad"
 				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
 					(reference "D63")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D")
+		(at 226.06 39.37 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b73a744d-7efd-44f1-8f02-66429887ad6a")
+		(property "Reference" "D80"
+			(at 228.6 38.0999 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "D"
+			(at 228.6 40.6399 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 226.06 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 226.06 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode"
+			(at 226.06 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 226.06 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 226.06 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b9e26a49-9ea4-4565-9414-ac47c16855d2")
+		)
+		(pin "2"
+			(uuid "50e0e9f8-8f22-4233-9f2e-34a7c9033c20")
+		)
+		(instances
+			(project "Blueboard-Kicad"
+				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
+					(reference "D80")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_45deg")
+		(at 261.62 73.66 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "b84dd3a6-55f8-4c83-936c-8217c78ae6b3")
+		(property "Reference" "SW95"
+			(at 261.62 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "NM7"
+			(at 262.382 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 261.62 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 261.62 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 261.62 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "1d05572c-76d5-4dbc-ace9-2f62bb5483c5")
+		)
+		(pin "2"
+			(uuid "ea2bb9ad-d448-440e-9e74-58d82f1975c4")
+		)
+		(instances
+			(project "Blueboard-Kicad"
+				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
+					(reference "SW95")
 					(unit 1)
 				)
 			)
@@ -10260,6 +17348,249 @@
 			(project "Blueboard-Kicad"
 				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
 					(reference "D4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D")
+		(at 276.86 123.19 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "be1a7a51-2b5e-4230-b0a7-51fb274af210")
+		(property "Reference" "D101"
+			(at 279.4 121.9199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "D"
+			(at 279.4 124.4599 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 276.86 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 276.86 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode"
+			(at 276.86 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 276.86 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 276.86 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5e9d9111-77e0-43bd-9501-fdfbc4d01a24")
+		)
+		(pin "2"
+			(uuid "7f5f05a7-d923-4a5a-8de6-f6bd392ebadc")
+		)
+		(instances
+			(project "Blueboard-Kicad"
+				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
+					(reference "D101")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_45deg")
+		(at 172.72 33.02 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "bfb41f77-6ae5-4a6d-88f0-38fea1cc7e58")
+		(property "Reference" "SW76"
+			(at 172.72 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "F9"
+			(at 172.72 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 172.72 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 172.72 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 172.72 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d61113b2-02d2-4df0-a696-5ba52930b67a")
+		)
+		(pin "2"
+			(uuid "c503786f-1ecc-4ef4-84cf-67f4849f2352")
+		)
+		(instances
+			(project "Blueboard-Kicad"
+				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
+					(reference "SW76")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D")
+		(at 200.66 144.78 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c045b246-fc89-4c3b-9cb0-167dffa0f331")
+		(property "Reference" "D71"
+			(at 203.2 143.5099 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "D"
+			(at 203.2 146.0499 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 200.66 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 200.66 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode"
+			(at 200.66 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 200.66 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 200.66 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "7a385a58-6f9b-4fd9-8794-37f0c009718a")
+		)
+		(pin "2"
+			(uuid "09899db7-d51a-49e5-a4e4-41fa26748eb3")
+		)
+		(instances
+			(project "Blueboard-Kicad"
+				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
+					(reference "D71")
 					(unit 1)
 				)
 			)
@@ -11086,6 +18417,73 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push_45deg")
+		(at 172.72 95.25 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c8e08a75-4711-4ab0-a8e2-e2feba981f89")
+		(property "Reference" "SW69"
+			(at 172.72 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "@"
+			(at 172.72 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 172.72 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 172.72 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 172.72 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d18a1771-4b01-4295-bac0-d9029d7dc624")
+		)
+		(pin "2"
+			(uuid "d713fcc1-fb36-4e7f-9da6-ef3e45f8a0cd")
+		)
+		(instances
+			(project "Blueboard-Kicad"
+				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
+					(reference "SW69")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_45deg")
 		(at 83.82 116.84 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -11241,16 +18639,16 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 162.56 144.78 90)
+		(at 306.07 59.69 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "d1c11dd7-cb56-4ffa-a06f-43cb588719b7")
-		(property "Reference" "D65"
-			(at 165.1 143.5099 90)
+		(uuid "cd3ed100-cfea-449f-aa2e-0976667aaa4c")
+		(property "Reference" "D107"
+			(at 308.61 58.4199 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11259,7 +18657,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 165.1 146.0499 90)
+			(at 308.61 60.9599 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11268,7 +18666,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 162.56 144.78 0)
+			(at 306.07 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11277,7 +18675,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 162.56 144.78 0)
+			(at 306.07 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11286,7 +18684,7 @@
 			)
 		)
 		(property "Description" "Diode"
-			(at 162.56 144.78 0)
+			(at 306.07 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11295,7 +18693,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 162.56 144.78 0)
+			(at 306.07 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11304,7 +18702,271 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 162.56 144.78 0)
+			(at 306.07 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "1a41181f-5445-4340-93ee-22d163f1f916")
+		)
+		(pin "2"
+			(uuid "91fddd63-1f73-4d47-9690-b03bdde13093")
+		)
+		(instances
+			(project "Blueboard-Kicad"
+				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
+					(reference "D107")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D")
+		(at 251.46 144.78 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "cf714918-7d26-49e7-b145-9be1188d2537")
+		(property "Reference" "D93"
+			(at 254 143.5099 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "D"
+			(at 254 146.0499 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 251.46 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 251.46 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode"
+			(at 251.46 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 251.46 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 251.46 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "6efedf21-8e36-42dc-b3ba-06c5a0a31044")
+		)
+		(pin "2"
+			(uuid "3cd38555-8cb6-4656-af61-d261fe666d0a")
+		)
+		(instances
+			(project "Blueboard-Kicad"
+				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
+					(reference "D93")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D")
+		(at 175.26 59.69 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "cfa6bbc0-23f8-438c-af8c-4e27f848dda6")
+		(property "Reference" "D67"
+			(at 177.8 58.4199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "D"
+			(at 177.8 60.9599 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 175.26 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 175.26 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode"
+			(at 175.26 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 175.26 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 175.26 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "1da1b3e4-5b31-41bd-a9fa-9ba1608dca56")
+		)
+		(pin "2"
+			(uuid "3bcbcd84-8f39-4e1e-9d6e-088c04b337f4")
+		)
+		(instances
+			(project "Blueboard-Kicad"
+				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
+					(reference "D67")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D")
+		(at 175.26 144.78 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d1c11dd7-cb56-4ffa-a06f-43cb588719b7")
+		(property "Reference" "D65"
+			(at 177.8 143.5099 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "D"
+			(at 177.8 146.0499 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 175.26 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 175.26 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode"
+			(at 175.26 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 175.26 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 175.26 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11410,6 +19072,73 @@
 			(project "Blueboard-Kicad"
 				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
 					(reference "D55")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_45deg")
+		(at 274.32 53.34 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "d22d78c9-e9b1-4a7f-aa84-1ce6223d2325")
+		(property "Reference" "SW98"
+			(at 274.32 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "/"
+			(at 275.082 47.752 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 274.32 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 274.32 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 274.32 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "59f1da74-a2a0-42a8-9515-d019e1a0d181")
+		)
+		(pin "2"
+			(uuid "8a1b86a9-bd0e-4f88-b5ad-a93f084d7f9f")
+		)
+		(instances
+			(project "Blueboard-Kicad"
+				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
+					(reference "SW98")
 					(unit 1)
 				)
 			)
@@ -11544,6 +19273,228 @@
 			(project "Blueboard-Kicad"
 				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
 					(reference "SW57")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D")
+		(at 264.16 59.69 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d7317902-ff95-4dca-af5e-3f9344622bba")
+		(property "Reference" "D94"
+			(at 266.7 58.4199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "D"
+			(at 266.7 60.9599 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 264.16 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 264.16 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode"
+			(at 264.16 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 264.16 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 264.16 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "4c7c1972-2c0a-4d50-86e8-37f97e3e2795")
+		)
+		(pin "2"
+			(uuid "e121d09c-3acb-4a97-84a5-7518fd0ffe85")
+		)
+		(instances
+			(project "Blueboard-Kicad"
+				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
+					(reference "D94")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_45deg")
+		(at 248.92 73.66 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "d78e36c6-2c41-4024-8ef4-0300fec239a0")
+		(property "Reference" "SW91"
+			(at 248.92 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "PgDWN"
+			(at 249.682 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 248.92 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 248.92 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 248.92 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "58143436-7c39-49c9-99e6-3bc08f45ac87")
+		)
+		(pin "2"
+			(uuid "dcb6e741-4369-45dc-b78b-4a58cc4d58b3")
+		)
+		(instances
+			(project "Blueboard-Kicad"
+				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
+					(reference "SW91")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_45deg")
+		(at 223.52 73.66 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "db3ad92e-4a9d-4692-8975-271a83bdbcdf")
+		(property "Reference" "SW82"
+			(at 223.52 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "DELETE"
+			(at 224.282 68.326 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 223.52 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 223.52 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 223.52 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "1fb4be32-216c-4079-a772-3dd7166d4d3d")
+		)
+		(pin "2"
+			(uuid "e7f2e8b5-aaa9-4902-91ab-a9a95c8ac5a1")
+		)
+		(instances
+			(project "Blueboard-Kicad"
+				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
+					(reference "SW82")
 					(unit 1)
 				)
 			)
@@ -11862,6 +19813,73 @@
 		)
 	)
 	(symbol
+		(lib_id "Switch:SW_Push_45deg")
+		(at 236.22 53.34 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "df626459-36ef-4a16-ad5b-b7f68a167847")
+		(property "Reference" "SW84"
+			(at 236.22 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "HOME"
+			(at 236.474 48.006 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 236.22 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 236.22 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 236.22 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "3b70754a-c747-4fdc-971b-5182586ed7a9")
+		)
+		(pin "2"
+			(uuid "7f158df3-eb62-4986-b207-5a7b02707190")
+		)
+		(instances
+			(project "Blueboard-Kicad"
+				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
+					(reference "SW84")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:D")
 		(at 162.56 39.37 90)
 		(unit 1)
@@ -12126,6 +20144,182 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:D")
+		(at 200.66 80.01 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e9720042-6457-4e5a-8c75-81636a0ec385")
+		(property "Reference" "D75"
+			(at 203.2 78.7399 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "D"
+			(at 203.2 81.2799 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 200.66 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 200.66 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode"
+			(at 200.66 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 200.66 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 200.66 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ed3ed260-884d-4fad-84de-dc60c153c6ad")
+		)
+		(pin "2"
+			(uuid "fa92da62-0888-4a42-9bae-4e18107e4182")
+		)
+		(instances
+			(project "Blueboard-Kicad"
+				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
+					(reference "D75")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D")
+		(at 264.16 101.6 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "eb94a996-d015-4552-ac36-0c4af58a0e02")
+		(property "Reference" "D92"
+			(at 266.7 100.3299 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "D"
+			(at 266.7 102.8699 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 264.16 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 264.16 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode"
+			(at 264.16 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 264.16 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 264.16 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "da319509-3862-49bf-98fa-650cb653afdb")
+		)
+		(pin "2"
+			(uuid "787342a5-875d-40ac-b7d5-41a647491d4a")
+		)
+		(instances
+			(project "Blueboard-Kicad"
+				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
+					(reference "D92")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Switch:SW_Push_45deg")
 		(at 83.82 33.02 0)
 		(unit 1)
@@ -12194,7 +20388,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push_45deg")
-		(at 160.02 138.43 0)
+		(at 172.72 138.43 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12202,7 +20396,7 @@
 		(dnp no)
 		(uuid "ed9a8824-af0d-4ffb-b49d-4d5d2fa5c69f")
 		(property "Reference" "SW65"
-			(at 160.02 130.81 0)
+			(at 172.72 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12210,7 +20404,7 @@
 			)
 		)
 		(property "Value" "Menu"
-			(at 160.528 133.096 0)
+			(at 173.228 133.096 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12218,7 +20412,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 160.02 138.43 0)
+			(at 172.72 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12227,7 +20421,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 160.02 138.43 0)
+			(at 172.72 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12236,7 +20430,7 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 160.02 138.43 0)
+			(at 172.72 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12415,6 +20609,94 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:D")
+		(at 238.76 123.19 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f16e5f43-47c2-4c58-9641-f3e624f7ad37")
+		(property "Reference" "D88"
+			(at 241.3 121.9199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "D"
+			(at 241.3 124.4599 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 238.76 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 238.76 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode"
+			(at 238.76 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 238.76 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 238.76 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "3997ecfd-6a10-4b48-a52d-dec8f14c3810")
+		)
+		(pin "2"
+			(uuid "fcd9e42a-6566-4988-bddb-b1fadb1a9e6a")
+		)
+		(instances
+			(project "Blueboard-Kicad"
+				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
+					(reference "D88")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Switch:SW_Push_45deg")
 		(at 121.92 116.84 0)
 		(unit 1)
@@ -12476,6 +20758,316 @@
 			(project "Blueboard-Kicad"
 				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
 					(reference "SW46")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D")
+		(at 226.06 59.69 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f514d390-11a1-48b9-8cc5-381acf596552")
+		(property "Reference" "D81"
+			(at 228.6 58.4199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "D"
+			(at 228.6 60.9599 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 226.06 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 226.06 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode"
+			(at 226.06 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 226.06 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 226.06 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "626d3acc-4c23-4312-ab45-79e37b0b040e")
+		)
+		(pin "2"
+			(uuid "8bd3005a-d50b-41cd-8ffb-c7eecd613910")
+		)
+		(instances
+			(project "Blueboard-Kicad"
+				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
+					(reference "D81")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D")
+		(at 238.76 59.69 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f52fc5da-665f-4079-afa5-3ae4bb8f0f71")
+		(property "Reference" "D84"
+			(at 241.3 58.4199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "D"
+			(at 241.3 60.9599 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 238.76 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 238.76 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode"
+			(at 238.76 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 238.76 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 238.76 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "1e031dda-f2c5-48fa-af2e-56806626b6b7")
+		)
+		(pin "2"
+			(uuid "05956cca-cf71-46ee-9fd8-05c82c9e1386")
+		)
+		(instances
+			(project "Blueboard-Kicad"
+				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
+					(reference "D84")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_45deg")
+		(at 236.22 138.43 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f540e46a-7bdf-48b8-9f72-de19432c8c33")
+		(property "Reference" "SW87"
+			(at 236.22 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "DWN"
+			(at 236.22 133.096 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 236.22 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 236.22 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 236.22 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "24cf3560-c72f-4f68-89c2-ea2548df7116")
+		)
+		(pin "2"
+			(uuid "6e369b19-566b-423e-84ad-f6f4dc2ec3de")
+		)
+		(instances
+			(project "Blueboard-Kicad"
+				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
+					(reference "SW87")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_45deg")
+		(at 172.72 53.34 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f5c08d06-e038-454c-9dc2-e73e50bd15bd")
+		(property "Reference" "SW67"
+			(at 172.72 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "-"
+			(at 172.72 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 172.72 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 172.72 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 172.72 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5a263bb5-65a4-4fd3-b476-41a6afff8786")
+		)
+		(pin "2"
+			(uuid "97cc5b29-cca7-4905-86a1-c5ba4ae71fc7")
+		)
+		(instances
+			(project "Blueboard-Kicad"
+				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
+					(reference "SW67")
 					(unit 1)
 				)
 			)
@@ -12751,6 +21343,161 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:D")
+		(at 200.66 59.69 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f8e060ae-e833-49ef-8dcb-27f05e3e6143")
+		(property "Reference" "D74"
+			(at 203.2 58.4199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "D"
+			(at 203.2 60.9599 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 200.66 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 200.66 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode"
+			(at 200.66 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 200.66 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 200.66 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9b063b17-1ccd-48fe-89c1-245170606546")
+		)
+		(pin "2"
+			(uuid "87875751-dd06-45d0-a6ec-937e5889bc29")
+		)
+		(instances
+			(project "Blueboard-Kicad"
+				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
+					(reference "D74")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_45deg")
+		(at 288.29 116.84 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f8fe22fc-bc69-4975-a482-0923bb95760b")
+		(property "Reference" "SW105"
+			(at 288.798 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "NM3"
+			(at 289.052 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 288.29 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 288.29 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 288.29 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c9bab7f2-0da0-43ca-a4c3-a0b1ec5c3334")
+		)
+		(pin "2"
+			(uuid "496a2368-dbdc-469c-80e6-25c328b56963")
+		)
+		(instances
+			(project "Blueboard-Kicad"
+				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
+					(reference "SW105")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Switch:SW_Push_45deg")
 		(at 160.02 53.34 0)
 		(unit 1)
@@ -12988,6 +21735,161 @@
 			(project "Blueboard-Kicad"
 				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
 					(reference "D48")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D")
+		(at 276.86 80.01 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "fe553e49-91a6-4d76-b7ca-e5913a0fe82e")
+		(property "Reference" "D99"
+			(at 279.4 78.7399 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "D"
+			(at 279.4 81.2799 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 276.86 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 276.86 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode"
+			(at 276.86 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 276.86 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 276.86 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c441f0be-d48b-4d2d-8d4c-7e9950a15c7f")
+		)
+		(pin "2"
+			(uuid "ce2aa3ac-6f20-49ce-a31f-8828ea0cadf8")
+		)
+		(instances
+			(project "Blueboard-Kicad"
+				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
+					(reference "D99")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_45deg")
+		(at 248.92 33.02 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "ff87fdd8-7638-4d5e-b4db-b21390b29397")
+		(property "Reference" "SW89"
+			(at 248.92 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "PAUSE BRK"
+			(at 251.968 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 248.92 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 248.92 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 248.92 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "01d22fb4-b7c7-4db6-9e87-8378addda971")
+		)
+		(pin "2"
+			(uuid "e3b7bb1d-3915-48d3-b467-4780973683e2")
+		)
+		(instances
+			(project "Blueboard-Kicad"
+				(path "/28ce5374-ebb9-4b9f-971f-5c3e61458e61"
+					(reference "SW89")
 					(unit 1)
 				)
 			)
