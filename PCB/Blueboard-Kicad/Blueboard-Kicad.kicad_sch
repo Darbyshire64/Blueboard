@@ -3979,6 +3979,16 @@
 	)
 	(wire
 		(pts
+			(xy 35.56 97.79) (xy 35.56 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1f39e83e-e0ed-4e45-9216-ce58c28f2544")
+	)
+	(wire
+		(pts
 			(xy 99.06 148.59) (xy 99.06 149.86)
 		)
 		(stroke
@@ -5976,6 +5986,16 @@
 			(type default)
 		)
 		(uuid "d69f230a-6aff-4dc5-b376-249bebe53116")
+	)
+	(wire
+		(pts
+			(xy 22.86 54.61) (xy 22.86 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d7962c4c-dc6e-495c-b84c-40b133092c58")
 	)
 	(wire
 		(pts
@@ -14540,7 +14560,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keyboard:SW_Cherry_MX1A_1.50u_PCB"
+		(property "Footprint" "Keyboard:SW_Cherry_MX1A_1.00u_PCB"
 			(at 198.12 73.66 0)
 			(effects
 				(font
