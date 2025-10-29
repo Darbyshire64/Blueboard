@@ -18,3 +18,22 @@ Then i spent the rest of my time Doing the most Repetitive and irritatingly comp
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjA2OSwicHVyIjoiYmxvYl9pZCJ9fQ==--69480ec590023542522218c8e3192f415b7fecbd/image.png)
   
 
+## 10/29/2025 - Finished Schematic and Layed Out Components On PCB  
+
+Today i spend aroud 4 Hours Finsihing off the Schematic and Deciding what GPIO Expander to use. I was initialy going to use the TCA9539PWR From Texas Instruments But after researching that didnt have any support with the KMK firmware so in the end i used the MCP23017.  I also learnt about how Rotary Encoder Switches work and added 2 to the schematic. 
+
+#### Schematic
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjQwMywicHVyIjoiYmxvYl9pZCJ9fQ==--9b27bd7672b16a00efc7e838cb3789fb069d24b0/image.png)
+#### TCA9539PWR
+![Texas Instruments_TCA9539PWR_3940](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjQwNCwicHVyIjoiYmxvYl9pZCJ9fQ==--bcbd6c10f4eabe74d247cc58a2553a88360868d6/Texas%20Instruments_TCA9539PWR_3940.jpg)
+#### MCP23017
+![Untitled](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjQwNiwicHVyIjoiYmxvYl9pZCJ9fQ==--c47b4988ae2ad08afd35fc3d4852838dfbaac91c/Untitled.jpg)
+
+## Working On the PCB
+Then i Asigned all the footprints and started work on the PCB. i aranged all the Keys, OLED and Rotary Encoders. 
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjQwOSwicHVyIjoiYmxvYl9pZCJ9fQ==--5a2e2f5df7df807a7521f11710fbb87ff97e0013/image.png)
+
+
+
+  
+
