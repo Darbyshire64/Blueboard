@@ -22,13 +22,13 @@ Blueboard is Themed and designed to my specific Liking. It features a Blue, Blac
 
 ## To Do
   - [ ] PCB
-    - [ ] Deisign Schematic
-      - [ ] Switches
-      - [ ] RGB
-      - [ ] OLED
-      - [ ] Potentomiters
-      - [ ] MCU
-      - [ ] GPIO Expander 
+    - [X] Deisign Schematic
+      - [X] Switches
+      - [X] RGB
+      - [X] OLED
+      - [X] Potentomiters
+      - [X] MCU
+      - [X] GPIO Expander 
     - [ ] Design PCB
     - [ ] Add Artwork
   - [ ] Design Case
