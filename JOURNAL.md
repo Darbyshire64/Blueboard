@@ -37,3 +37,11 @@ Then i Asigned all the footprints and started work on the PCB. i aranged all the
 
   
 
+## 11/9/2025 - Routing the PCB  
+
+I started my decent into routing hell. how do pepole route keyboards Ive atached an immage of my atempt at hell. Im thinking i might need to make this a 6 layer pcb but the price would skyrocket 
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTg5OSwicHVyIjoiYmxvYl9pZCJ9fQ==--332263ef330c4223893c423a697e7192d9d006a8/image.png)
+
+  
+
