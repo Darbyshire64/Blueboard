@@ -55,7 +55,7 @@ Blueboard is Themed and designed to my specific Liking. It features a Blue, Blac
     - [X] Design PCB
     - [X] Add Artwork
   - [ ] Design Case
-  - [ ] Complete BOM
+  - [X] Complete BOM
   - [ ] Write Skeleton Firmware (KMK)
 
 
