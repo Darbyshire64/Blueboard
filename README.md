@@ -1,13 +1,35 @@
 # Blueboard
-A Custom 75% ANSI 104 With Big Enter Keyboard. Featuring:   
+A Custom ANSI 104 With Big Enter Keyboard. Featuring:   
   - .91inch OLED display
   - Two Potentiomiters
   - 5 Macro Keys
-  - Dual Mode USB-C  and Bluetooth
+
+### BOM
+Alot of these components i or a freind has so i dont need to buy them and i can print the  case my self.
+
+-----------------------------------------
+| PRICE | QTY | ITEM              |LINK |
+|-------|-----|-------------------|-----|
+| $0.00 | x1  |XIAO RP2040        |     |
+| $0.00 | x2  |MCP23017 GPIO Expander | |
+| $0.00 | x2  |Rotary Encoder Switches| |
+| $0.00 | x1  |.91inch OLED       |     |
+| $0.00 | x1  |3D Printed Case    |     |
+| $24.00| x1  | Key Cap Set       | <a href="https://www.aliexpress.com/item/1005007817761888.html?spm=a2g0o.productlist.main.22.46c5788eAlocc4&algo_pvid=6bfc7eba-8c23-4d8e-acff-ef4339698735&algo_exp_id=6bfc7eba-8c23-4d8e-acff-ef4339698735-21&pdp_ext_f=%7B%22order%22%3A%226%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21GBP%2120.49%2120.49%21%21%2126.52%2126.52%21%402103834817615696840777362eceeb%2112000042316060294%21sea%21UK%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3A9022af12%3Bm03_new_user%3A-29895&curPageLogUid=6jgkASDIeQmP&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005007817761888%7C_p_origin_prod%3A£"> LINK </a> |
+| $19.23| x1   | Switches          |<a href="https://www.aliexpress.com/item/1005002378701948.html?spm=a2g0o.productlist.main.2.57b657a07TkDOW&algo_pvid=97b4824a-0a2a-4a95-87c6-16175c94739a&algo_exp_id=97b4824a-0a2a-4a95-87c6-16175c94739a-1&pdp_ext_f=%7B%22order%22%3A%221849%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%212.63%210.99%21%21%212.63%210.99%21%40211b65de17629907681648156ef251%2112000020915533413%21sea%21UK%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3A9022af12%3Bm03_new_user%3A-29895%3BpisId%3A5000000190273873&curPageLogUid=0IDCmPXkWz1a&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005002378701948%7C_p_origin_prod%3A#nav-specification">LINK </a> |
+|-------|------| PCB COSTS --------|------|
+|$36.90 | x1   | PCB               |------|
+|$16.60 | x1   | GSDL SHIPING      |      |
+|-------|------|-------------------|------|
+| $96.60 |      | TOTAL             |      |
+
+
+
 
 ## Themeing
 
-Blueboard is Themed and designed to my specific Liking. It features a Blue, Black and Brown Colour scheme. It has Minimal RGB. 
+Blueboard is Themed and designed to my specific Liking. It features a Blue, Black and Brown Colour scheme. With a Zero RGB Aproach.
+
 
 #### <a href="https://www.aliexpress.com/item/1005007817761888.html?spm=a2g0o.productlist.main.22.46c5788eAlocc4&algo_pvid=6bfc7eba-8c23-4d8e-acff-ef4339698735&algo_exp_id=6bfc7eba-8c23-4d8e-acff-ef4339698735-21&pdp_ext_f=%7B%22order%22%3A%226%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21GBP%2120.49%2120.49%21%21%2126.52%2126.52%21%402103834817615696840777362eceeb%2112000042316060294%21sea%21UK%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3A9022af12%3Bm03_new_user%3A-29895&curPageLogUid=6jgkASDIeQmP&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005007817761888%7C_p_origin_prod%3A"> Keycaps </a>
 <img width="462" height="147" alt="image" src="https://github.com/user-attachments/assets/de6c908c-9b98-4e5a-acaf-65db2cace00a" />
@@ -21,7 +43,7 @@ Blueboard is Themed and designed to my specific Liking. It features a Blue, Blac
 
 
 ## To Do
-  - [ ] PCB
+  - [X] PCB
     - [X] Deisign Schematic
       - [X] Switches
       - [X] RGB
@@ -29,8 +51,8 @@ Blueboard is Themed and designed to my specific Liking. It features a Blue, Blac
       - [X] Potentomiters
       - [X] MCU
       - [X] GPIO Expander 
-    - [ ] Design PCB
-    - [ ] Add Artwork
+    - [X] Design PCB
+    - [X] Add Artwork
   - [ ] Design Case
   - [ ] Complete BOM
   - [ ] Write Skeleton Firmware (KMK)
