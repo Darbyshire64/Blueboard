@@ -21,8 +21,9 @@ Alot of these components i or a freind has so i dont need to buy them and i can 
 |-------|------| PCB COSTS --------|------|
 |$33.40 | x1   | PCB               |      |
 |$16.60 | x1   | GSDL SHIPING      |      |
+|-$20   |      | BP Coupon         |       |
 |-------|------|-------------------|------|
-| $96.91 |      | TOTAL             |      |
+| $76.91 |      | TOTAL             |      |
 
 
 
