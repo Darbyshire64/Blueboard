@@ -14,7 +14,9 @@ Alot of these components i or a freind has so i dont need to buy them and i can 
 | $0.00 | x2  |MCP23017 GPIO Expander | |
 | $0.00 | x2  |Rotary Encoder Switches| |
 | $0.00 | x1  |.91inch OLED       |     |
+|-------|-----|--Case-------------|-----|
 | $0.00 | x1  |3D Printed Case    |     |
+|------|------|--Key's-------------|-----|
 | $24.00| x1  | Key Cap Set       | <a href="https://www.aliexpress.com/item/1005007817761888.html?spm=a2g0o.productlist.main.22.46c5788eAlocc4&algo_pvid=6bfc7eba-8c23-4d8e-acff-ef4339698735&algo_exp_id=6bfc7eba-8c23-4d8e-acff-ef4339698735-21&pdp_ext_f=%7B%22order%22%3A%226%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21GBP%2120.49%2120.49%21%21%2126.52%2126.52%21%402103834817615696840777362eceeb%2112000042316060294%21sea%21UK%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3A9022af12%3Bm03_new_user%3A-29895&curPageLogUid=6jgkASDIeQmP&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005007817761888%7C_p_origin_prod%3A£"> LINK </a> |
 | $19.23| x1   | Switches          |<a href="https://www.aliexpress.com/item/1005002378701948.html?spm=a2g0o.productlist.main.2.57b657a07TkDOW&algo_pvid=97b4824a-0a2a-4a95-87c6-16175c94739a&algo_exp_id=97b4824a-0a2a-4a95-87c6-16175c94739a-1&pdp_ext_f=%7B%22order%22%3A%221849%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%212.63%210.99%21%21%212.63%210.99%21%40211b65de17629907681648156ef251%2112000020915533413%21sea%21UK%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3A9022af12%3Bm03_new_user%3A-29895%3BpisId%3A5000000190273873&curPageLogUid=0IDCmPXkWz1a&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005002378701948%7C_p_origin_prod%3A#nav-specification">LINK </a> |
 |$3.68  | x1   | KEY Stabalizers   | <a href="https://www.aliexpress.com/item/1005004229140548.html?spm=a2g0o.productlist.main.29.7902rfnXrfnXtu&algo_pvid=2fd3785e-ad6c-4d89-9afd-bb18c151fe01&algo_exp_id=2fd3785e-ad6c-4d89-9afd-bb18c151fe01-26&pdp_ext_f=%7B%22order%22%3A%2238%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%216.18%213.68%21%21%216.18%213.68%21%40211b61d017629911662487438e114c%2112000028456713257%21sea%21UK%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3A9022af12%3Bm03_new_user%3A-29895%3BpisId%3A5000000190273874&curPageLogUid=07ZDBuWAGHXZ&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005004229140548%7C_p_origin_prod%3A"> LINK </a>      |
@@ -23,7 +25,17 @@ Alot of these components i or a freind has so i dont need to buy them and i can 
 |$16.60 | x1   | GSDL SHIPING      |      |
 |-$20   |      | BP Coupon         |       |
 |-------|------|-------------------|------|
-| $76.91 |      | TOTAL             |      |
+| $76.91 |    | TOTAL With Coupon|      |
+| $96.91 |     | TOTAL Without Coupon|      |
+
+
+
+## Renders
+<img width="1920" height="1080" alt="Render2" src="https://github.com/user-attachments/assets/6b4c7699-97e5-4835-8607-b2476007065c" />
+<img width="1920" height="1080" alt="Render1" src="https://github.com/user-attachments/assets/6a609365-39b7-48e3-8cf6-97779fe9a961" />
+<img width="1920" height="1080" alt="Render5" src="https://github.com/user-attachments/assets/6f091747-47ba-42f6-9595-bdf546db1f85" />
+<img width="1920" height="1080" alt="Render4" src="https://github.com/user-attachments/assets/dd77a6f3-1c0e-48b3-af67-1c09f3315557" />
+<img width="1920" height="1080" alt="Render3" src="https://github.com/user-attachments/assets/3c179f8b-536b-441e-b7fa-984fbe5e065a" />
 
 
 ## Case
@@ -64,6 +76,7 @@ Blueboard is Themed and designed to my specific Liking. It features a Blue, Blac
       - [X] GPIO Expander 
     - [X] Design PCB
     - [X] Add Artwork
+  - [ ] Export BOM to CSV
   - [X] Design Case
   - [X] Complete BOM
   - [ ] Write Skeleton Firmware (KMK)
