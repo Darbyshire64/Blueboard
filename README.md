@@ -26,7 +26,16 @@ Alot of these components i or a freind has so i dont need to buy them and i can 
 | $76.91 |      | TOTAL             |      |
 
 
+## Case
 
+<img width="1457" height="898" alt="Screenshot 2025-11-24 014100" src="https://github.com/user-attachments/assets/d0583fcc-a63b-4a8c-aa46-aad29c579dab" />
+<img width="1574" height="896" alt="Screenshot 2025-11-24 014047" src="https://github.com/user-attachments/assets/9317d411-88b5-4fea-8336-a9d58b3d84a5" />
+<img width="1654" height="1028" alt="Screenshot 2025-11-24 014833" src="https://github.com/user-attachments/assets/9d4cfb7c-568a-4c1f-8225-fd30f017fe15" />
+<img width="1514" height="941" alt="Screenshot 2025-11-24 014128" src="https://github.com/user-attachments/assets/aee65781-0037-491c-b146-d5e79984cea6" />
+
+## PCB
+<img width="1495" height="492" alt="image" src="https://github.com/user-attachments/assets/74be0d45-890f-4777-8446-bf24d3c32766" />
+<img width="1360" height="919" alt="image" src="https://github.com/user-attachments/assets/56a56d9a-e6eb-48a7-9233-04e3f1ce5697" />
 
 ## Themeing
 
@@ -55,7 +64,7 @@ Blueboard is Themed and designed to my specific Liking. It features a Blue, Blac
       - [X] GPIO Expander 
     - [X] Design PCB
     - [X] Add Artwork
-  - [ ] Design Case
+  - [X] Design Case
   - [X] Complete BOM
   - [ ] Write Skeleton Firmware (KMK)
 
