@@ -1,5 +1,5 @@
 # Blueboard
-A Custom ANSI 104 With Big Enter Keyboard. Featuring:   
+A Custom ANSI 109 Keyboard. Featuring:   
   - .91inch OLED display
   - Two Potentiomiters
   - 5 Macro Keys
