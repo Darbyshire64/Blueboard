@@ -4,6 +4,15 @@ A Custom ANSI 109 Keyboard. Featuring:
   - Two Potentiomiters
   - 5 Macro Keys
 
+https://blueprint.hackclub.com/projects/1084
+
+## Important Notes About this project
+ - If a Component is listed as $0.00 it is already owned by me
+ - The BOM says RP2040 But the Schematics say ESP-32 C3 this is because i change mcu mid project however the xiao modules pinout are identical.
+ - My Journal.md is outdated but the one on the blueprint project is up todate. the bot seemed to stop updating it automaticly.
+
+
+
 ### BOM
 Alot of these components i or a freind has so i dont need to buy them and i can print the  case my self.
 
