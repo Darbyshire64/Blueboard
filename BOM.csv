@@ -1,0 +1,18 @@
+PRICE,QTY,ITEM,LINK
+0.00,1,XIAO RP2040,
+0.00,2,MCP23017 GPIO Expander,
+0.00,2,Rotary Encoder Switches,
+0.00,1,0.91inch OLED,
+, ,Case,
+0.00,1,3D Printed Case,
+, ,Keys,
+24.00,1,Key Cap Set,LINK
+19.23,1,Switches,LINK
+3.68,1,Key Stabilizers,LINK
+, ,PCB COSTS,
+33.40,1,PCB,
+16.60,1,GSDL SHIPPING,
+-20,1,BP Coupon,
+, ,Totals,
+76.91,1,TOTAL With Coupon,
+96.91,1,TOTAL Without Coupon,
