@@ -22,7 +22,6 @@ print("[STAUTS] Expander Init")
 
 i2c = busio.I2C(board.SCL, board.SDA)
 
-
 mcp1 = MCP23017(i2c, address=0x20)
 mcp2 = MCP23017(i2c, address=0x21)
 
@@ -67,12 +66,17 @@ print("[STAUTS] Keyboard Init")
 
 keyboard = KMKKeyboard()
 
-keyboard.col_pins = (board.GP0,) #NOT Done until Expander Init
-keyboard.row_pins = (board.GP1,) # Not Done until Expander Init
+keyboard.col_pins = (col1,col2,col3,col4,col5,col6,col7,col8,col9,col10,col11,col12,col13,col14,col15,col16,col16,col17,col18,col19,col20,col21,col22,col23) 
+keyboard.row_pins = (row1,row2,row3,row4,row5,row6)
 keyboard.diode_orientation = DiodeOrientation.COL2ROW
 
 keyboard.keymap = [
-    [KC.A,]
+    [XXXXX],[KC.ESCAPE],[XXXXX],[KC.F1],[KC.F2],[KC.F3],[KC.F4],[XXXXX],[KC.F5],[KC.F6],[KC.F7],[KC.F8],[KC.F9],[KC.F10],[KC.F11],[KC.F12],[KC.PSCREEN],[KC.SCROLLLOCK],[KC.PAUSE],[XXXXX],[XXXXX],[XXXXX],[XXXXX]
+    [KC.N1],[KC.ZKHK],[KC.N1],[KC.N2],[KC.N3],[KC.N4],[KC.N5],[KC.N6],[KC.N7],[KC.N8],[KC.N9],[KC.N0],[KC.MINUS],[KC.PLUS],[KC.BSPACE],[XXXXX],[KC.INSERT],[KC.HOME],[KC.PGUP],[KC.NLCK],[KC.KP_SLASH],[KC.PAST],[KC.PMNS]
+    [KC.N2],[KC.TAB],[KC.Q],[KC.W],[KC.E],[KC.R],[KC.T],[KC.Y],[KC.D],[KC.I],[KC.O],[KC.P],[KC.LBRACKET],[LBRACKET],[KC.SLASH],[XXXXX],[KC.DELETE],[KC.END],[KC.PGDOWN],[KC.KP_7],[KC.P8],[KC.P9],[KC.PPLS]
+    [KC.N3],[KC.CAPS],[KC.A],[KC.S],[KC.D],[KC.F],[KC.G],[KC.H],[KC.J],[KC.K],[KC.L],[KC.SCOLON],[KC.AT],[XXXXX],[KC.ENTR][XXXXX],[XXXXX],[XXXXX],[XXXXX],[KC.KP_4],[KC.P5],[KC.P6],[XXXXX]
+    [KC.N4],[KC.LSHIFT],[KC.Z],[KC.X],[KC.C],[KC.V],[KC.B],[KC.N],[KC.M],[KC.COMM],[KC.DOT],[XXXXX],[XXXXX],[KC.QUES],[XXXXX],[KC.RSHIFT],[XXXXX],[XXXXX],[KC.UP],[XXXXX],[KC.KP_1],[KC.P2],[KC.P3],[KC.PENT]
+    [KC.N5],[KC.LCTRL],[KC.LGUI],[KC.LALT],[XXXXX],[XXXXX],[KC.SPACE],[XXXXX],[XXXXX][KC.RALT],[KC.RGUI],[XXXXX],[XXXXX],[XXXXX],[KC.RCTRL][XXXXX],[KC.LEFT],[KC.DOWN],[KC.RIGHT],[KC.KP_0],[XXXXX],[XXXXX]
 ]
 
 print("[STAUTS] Keyboard Done")
