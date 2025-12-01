@@ -20,7 +20,8 @@ Alot of these components i or a freind has so i dont need to buy them and i can 
 | PRICE | QTY | ITEM              |LINK |
 |-------|-----|-------------------|-----|
 | $0.00 | x1  |XIAO RP2040        |     |
-| $0.00 | x2  |MCP23017 GPIO Expander | |
+| $0.00 | x2  |MCP23017 GPIO Expander (SPDIP) | |
+| $0.00 | x109| 1N2007 (DO-35    | |
 | $0.00 | x2  |Rotary Encoder Switches| |
 | $0.00 | x1  |.91inch OLED       |     |
 |-------|-----|--Case-------------|-----|
