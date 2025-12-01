@@ -1,18 +1,15 @@
 PRICE,QTY,ITEM,LINK
-0.00,1,XIAO RP2040,
-0.00,2,MCP23017 GPIO Expander,
-0.00,2,Rotary Encoder Switches,
-0.00,1,0.91inch OLED,
-, ,Case,
-0.00,1,3D Printed Case,
-, ,Keys,
-24.00,1,Key Cap Set,LINK
-19.23,1,Switches,LINK
-3.68,1,Key Stabilizers,LINK
-, ,PCB COSTS,
-33.40,1,PCB,
-16.60,1,GSDL SHIPPING,
--20,1,BP Coupon,
-, ,Totals,
-76.91,1,TOTAL With Coupon,
-96.91,1,TOTAL Without Coupon,
+$0.00,x1,XIAO RP2040,
+$0.00,x2,MCP23017 GPIO Expander (SPDIP),
+$0.00,x109,1N2007 (DO-35),
+$0.00,x2,Rotary Encoder Switches,
+$0.00,x1,.91inch OLED,
+$0.00,x1,3D Printed Case,
+$24.00,x1,Key Cap Set,https://www.aliexpress.com/item/1005007817761888.html
+$16.20,x109,Switches,https://www.aliexpress.com/item/1005002378701948.html
+$3.68,x1,Key Stabalizers Set,https://www.aliexpress.com/item/1005004229140548.html
+$33.40,x1,PCB,
+$18.63,x1,GSDL SHIPING,
+-$20,,BP Coupon,
+$75.91,,TOTAL With Coupon,
+$95.91,,TOTAL Without Coupon,
