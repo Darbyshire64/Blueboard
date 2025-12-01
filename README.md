@@ -31,11 +31,11 @@ Alot of these components i or a freind has so i dont need to buy them and i can 
 |$3.68  | x1   | KEY Stabalizers   | <a href="https://www.aliexpress.com/item/1005004229140548.html?spm=a2g0o.productlist.main.29.7902rfnXrfnXtu&algo_pvid=2fd3785e-ad6c-4d89-9afd-bb18c151fe01&algo_exp_id=2fd3785e-ad6c-4d89-9afd-bb18c151fe01-26&pdp_ext_f=%7B%22order%22%3A%2238%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%216.18%213.68%21%21%216.18%213.68%21%40211b61d017629911662487438e114c%2112000028456713257%21sea%21UK%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3A9022af12%3Bm03_new_user%3A-29895%3BpisId%3A5000000190273874&curPageLogUid=07ZDBuWAGHXZ&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005004229140548%7C_p_origin_prod%3A"> LINK </a>      |
 |-------|------| PCB COSTS --------|------|
 |$33.40 | x1   | PCB               |      |
-|$16.60 | x1   | GSDL SHIPING      |      |
+|$18.63 | x1   | GSDL SHIPING      |      |
 |-$20   |      | BP Coupon         |       |
 |-------|------|-------------------|------|
-| $76.91 |    | TOTAL With Coupon|      |
-| $96.91 |     | TOTAL Without Coupon|      |
+| $75.91 |    | TOTAL With Coupon|      |
+| $95.91 |     | TOTAL Without Coupon|      |
 
 
 
